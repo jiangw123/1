@@ -299,131 +299,131 @@ http://27.36.62.162:9090/live/dox4k_16000.m3u8
 http://27.36.62.162:9090/live/CCTV1HD_7000.m3u8
 #EXTINF:-1 group-title="广东有线", CCTV-2HD
 http://27.36.62.162:9090/live/CCTV2HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-3HD
+#EXTINF:-1 group-title="广东有线", CCTV-3HD
 http://27.36.62.162:9090/live/CCTV3HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-5HD
+#EXTINF:-1 group-title="广东有线", CCTV-5HD
 http://27.36.62.162:9090/live/CCTV5HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-5+HD
+#EXTINF:-1 group-title="广东有线", CCTV-5+HD
 http://27.36.62.162:9090/live/CCTV5plusHD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-6HD
+#EXTINF:-1 group-title="广东有线", CCTV-6HD
 http://27.36.62.162:9090/live/CCTV6HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-7HD
+#EXTINF:-1 group-title=广东有线"", CCTV-7HD
 http://27.36.62.162:9090/live/CCTV7HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-8HD
+#EXTINF:-1 group-title=广东有线"", CCTV-8HD
 http://27.36.62.162:9090/live/CCTV8HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-9HD
+#EXTINF:-1 group-title=广东有线"", CCTV-9HD
 http://27.36.62.162:9090/live/CCTV9HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-10HD
+#EXTINF:-1 group-title="广东有线", CCTV-10HD
 http://27.36.62.162:9090/live/CCTV10HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-12HD
+#EXTINF:-1 group-title="广东有线", CCTV-12HD
 http://27.36.62.162:9090/live/CCTV12HD_7000.m3u8
-#EXTINF:-1 group-title="", CCTV-14HD
+#EXTINF:-1 group-title="广东有线", CCTV-14HD
 http://27.36.62.162:9090/live/CCTV14HD_7000.m3u8
-#EXTINF:-1 group-title="", CHC高清电影HD
+#EXTINF:-1 group-title="广东有线", CHC高清电影HD
 http://27.36.62.162:9090/live/CHCHD_7000.m3u8
-#EXTINF:-1 group-title="", 广东卫视HD
+#EXTINF:-1 group-title="广东有线", 广东卫视HD
 http://27.36.62.162:9090/live/guangdongHD_7000.m3u8
-#EXTINF:-1 group-title="", 深圳卫视HD
+#EXTINF:-1 group-title="广东有线", 深圳卫视HD
 http://27.36.62.162:9090/live/shenzhenHD_7000.m3u8
-#EXTINF:-1 group-title="", 东方卫视HD
+#EXTINF:-1 group-title="广东有线", 东方卫视HD
 http://27.36.62.162:9090/live/dongfangHD_7000.m3u8
-#EXTINF:-1 group-title="", 北京卫视HD
+#EXTINF:-1 group-title="广东有线", 北京卫视HD
 http://27.36.62.162:9090/live/beijingHD_7000.m3u8
-#EXTINF:-1 group-title="", 湖南卫视HD
+#EXTINF:-1 group-title="广东有线", 湖南卫视HD
 http://27.36.62.162:9090/live/hunanHD_7000.m3u8
-#EXTINF:-1 group-title="", 浙江卫视HD
+#EXTINF:-1 group-title="广东有线", 浙江卫视HD
 http://27.36.62.162:9090/live/zhejiangHD_7000.m3u8
-#EXTINF:-1 group-title="", 四川卫视HD
+#EXTINF:-1 group-title="广东有线", 四川卫视HD
 http://27.36.62.162:9090/live/sichuanHD_7000.m3u8
-#EXTINF:-1 group-title="", 江苏卫视HD
+#EXTINF:-1 group-title="广东有线", 江苏卫视HD
 http://27.36.62.162:9090/live/jiangsuHD_7000.m3u8
-#EXTINF:-1 group-title="", 重庆卫视HD
+#EXTINF:-1 group-title="广东有线", 重庆卫视HD
 http://27.36.62.162:9090/live/chongqingHD_7000.m3u8
-#EXTINF:-1 group-title="", 贵州卫视HD
+#EXTINF:-1 group-title=广东有线"", 贵州卫视HD
 http://27.36.62.162:9090/live/guizhouHD_7000.m3u8
-#EXTINF:-1 group-title="", 河北卫视HD
+#EXTINF:-1 group-title="广东有线", 河北卫视HD
 http://27.36.62.162:9090/live/hebeiHD_7000.m3u8
-#EXTINF:-1 group-title="", 辽宁卫视HD
+#EXTINF:-1 group-title="广东有线", 辽宁卫视HD
 http://27.36.62.162:9090/live/liaoningHD_7000.m3u8
-#EXTINF:-1 group-title="", 天津卫视HD
+#EXTINF:-1 group-title="广东有线", 天津卫视HD
 http://27.36.62.162:9090/live/tianjinHD_7000.m3u8
-#EXTINF:-1 group-title="", 山东卫视HD
+#EXTINF:-1 group-title="广东有线", 山东卫视HD
 http://27.36.62.162:9090/live/shandongHD_7000.m3u8
-#EXTINF:-1 group-title="", 湖北卫视HD
+#EXTINF:-1 group-title="广东有线", 湖北卫视HD
 http://27.36.62.162:9090/live/hubeiHD_7000.m3u8
-#EXTINF:-1 group-title="", 安徽卫视HD
+#EXTINF:-1 group-title="广东有线", 安徽卫视HD
 http://27.36.62.162:9090/live/anhuiHD_7000.m3u8
-#EXTINF:-1 group-title="", 黑龙江卫视HD
+#EXTINF:-1 group-title="广东有线", 黑龙江卫视HD
 http://27.36.62.162:9090/live/heilongjiangHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX4K
+#EXTINF:-1 group-title="广东有线", DOX4K
 http://27.36.62.162:9090/live/dox4k_16000.m3u8
-#EXTINF:-1 group-title="", 天华4K
+#EXTINF:-1 group-title=广东有线"", 天华4K
 http://27.36.62.162:9090/live/tianhua4k_16000.m3u8
-#EXTINF:-1 group-title="", 自办4K
+#EXTINF:-1 group-title="广东有线", 自办4K
 http://27.36.62.162:9090/live/ziban4k_16000.m3u8
-#EXTINF:-1 group-title="", 极K纪录
+#EXTINF:-1 group-title=广东有线"", 极K纪录
 http://27.36.62.162:9090/live/jikjilu_16000.m3u8
-#EXTINF:-1 group-title="", 极K测试
+#EXTINF:-1 group-title="广东有线", 极K测试
 http://27.36.62.162:9090/live/jikceshi_30000.m3u8
-#EXTINF:-1 group-title="", 广东影视4K
+#EXTINF:-1 group-title="广东有线", 广东影视4K
 http://27.36.62.162:9090/live/gdyingshi4k_30000.m3u8
-#EXTINF:-1 group-title="", 广东综艺4K
+#EXTINF:-1 group-title="广东有线", 广东综艺4K
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-#EXTINF:-1 group-title="", DOX院线HD
+#EXTINF:-1 group-title="广东有线", DOX院线HD
 http://27.36.62.162:9090/live/DOXyuanxianHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX雅趣HD
+#EXTINF:-1 group-title=广东有线"", DOX雅趣HD
 http://27.36.62.162:9090/live/DOXhanliuHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX怡家HD
+#EXTINF:-1 group-title=广东有线"", DOX怡家HD
 http://27.36.62.162:9090/live/DOXyijiaHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX英伦HD
+#EXTINF:-1 group-title=广东有线"", DOX英伦HD
 http://27.36.62.162:9090/live/DOXyinglunHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX新艺HD
+#EXTINF:-1 group-title="广东有线", DOX新艺HD
 http://27.36.62.162:9090/live/DOXxinyiHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX新知HD
+#EXTINF:-1 group-title="广东有线", DOX新知HD
 http://27.36.62.162:9090/live/DOXxinzhiHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX映画HD
+#EXTINF:-1 group-title=广东有线"", DOX映画HD
 http://27.36.62.162:9090/live/DOXyinghuaHD_7000.m3u8
-#EXTINF:-1 group-title="", DOX剧场HD
+#EXTINF:-1 group-title="广东有线", DOX剧场HD
 http://27.36.62.162:9090/live/DOXjuchangHD_7000.m3u8
-#EXTINF:-1 group-title="", 新视觉HD
+#EXTINF:-1 group-title=广东有线"", 新视觉HD
 http://27.36.62.162:9090/live/xinshijueHD_7000.m3u8
-#EXTINF:-1 group-title="", 全纪实HD
+#EXTINF:-1 group-title="广东有线", 全纪实HD
 http://27.36.62.162:9090/live/quanjishiHD_7000.m3u8
-#EXTINF:-1 group-title="", 求索纪录HD
+#EXTINF:-1 group-title="广东有线", 求索纪录HD
 http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
-#EXTINF:-1 group-title="", 求索科学HD
+#EXTINF:-1 group-title="广东有线", 求索科学HD
 http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
-#EXTINF:-1 group-title="", 求索动物HD
+#EXTINF:-1 group-title="广东有线", 求索动物HD
 http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
-#EXTINF:-1 group-title="", 求索生活HD
+#EXTINF:-1 group-title=广东有线"", 求索生活HD
 http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
-#EXTINF:-1 group-title="", 高清探索HD
+#EXTINF:-1 group-title="广东有线", 高清探索HD
 http://27.36.62.162:9090/live/searchHD_7000.m3u8
-#EXTINF:-1 group-title="", 高清影院HD
+#EXTINF:-1 group-title="广东有线", 高清影院HD
 http://27.36.62.162:9090/live/FilmsHD_7000.m3u8
-#EXTINF:-1 group-title="", 高清剧场HD
+#EXTINF:-1 group-title="广东有线", 高清剧场HD
 http://27.36.62.162:9090/live/TheaterHD_7000.m3u8
-#EXTINF:-1 group-title="", 高清综合HD
+#EXTINF:-1 group-title="广东有线", 高清综合HD
 http://27.36.62.162:9090/live/zongheHD_7000.m3u8
-#EXTINF:-1 group-title="", 高清演示HD
+#EXTINF:-1 group-title="广东有线", 高清演示HD
 http://27.36.62.162:9090/live/HDChanneldemo_7000.m3u8
-#EXTINF:-1 group-title="", 粤语高清HD
+#EXTINF:-1 group-title="广东有线", 粤语高清HD
 http://27.36.62.162:9090/live/yueyuHD_7000.m3u8
-#EXTINF:-1 group-title="", 劲爆体育HD
+#EXTINF:-1 group-title="广东有线", 劲爆体育HD
 http://27.36.62.162:9090/live/jinbaotiyuHD_7000.m3u8
-#EXTINF:-1 group-title="", 欢笑剧场HD
+#EXTINF:-1 group-title="广东有线", 欢笑剧场HD
 http://27.36.62.162:9090/live/huanxiaojuchangHD_7000.m3u8
-#EXTINF:-1 group-title="", 魅力音乐HD
+#EXTINF:-1 group-title="广东有线", 魅力音乐HD
 http://27.36.62.162:9090/live/meiliyinyueHD_7000.m3u8
 #EXTINF:-1 group-title="", 广东经济HD
 http://27.36.62.162:9090/live/GDjingjikejiaoHD_7000.m3u8
-#EXTINF:-1 group-title="", 广东体育HD
+#EXTINF:-1 group-title="广东有线", 广东体育HD
 http://27.36.62.162:9090/live/gdsportsHD_7000.m3u8
-#EXTINF:-1 group-title="", 汕头一套HD
+#EXTINF:-1 group-title="广东有线", 汕头一套HD
 http://27.36.62.162:9090/live/shantouyitaogaoqing_4500.m3u8
-#EXTINF:-1 group-title="", 汕头二套HD
+#EXTINF:-1 group-title="广东有线", 汕头二套HD
 http://27.36.62.162:9090/live/shantouertaogaoqing_4500.m3u8
-#EXTINF:-1 group-title="", 汕头三套HD
+#EXTINF:-1 group-title="广东有线", 汕头三套HD
 http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8
 #EXTINF:-1 group-title="", CCTV-1
 http://27.36.62.162:9090/live/CCTV1_1500.m3u8
