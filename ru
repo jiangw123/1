@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,XXX: 01
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/6058.m3u8
 #EXTINF:-1,XXX: 02
