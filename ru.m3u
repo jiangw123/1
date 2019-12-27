@@ -1,15 +1,15 @@
-#group-title="综合"
-#EXTINF:-1,XXX: 01
+
+#EXTINF:-1, group-title="卫视频道",XXX: 01
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/6058.m3u8
-#EXTINF:-1,XXX: 02
+#EXTINF:-1, group-title="卫视频道",XXX: 02
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/6059.m3u8
-#EXTINF:-1,XXX: 03
+#EXTINF:-1, group-title="卫视频道",XXX: 03
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/6060.m3u8
-#EXTINF:-1,XXX: Ast TV 2 Full HD
+#EXTINF:-1, group-title="频道",XXX: Ast TV 2 Full HD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/2041.m3u8
-#EXTINF:-1,XXX: Ast TV 2 HD
+#EXTINF:-1,group-title="频道",XXX: Ast TV 2 HD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/2043.m3u8
-#EXTINF:-1,XXX: Ast TV Full HD
+#EXTINF:-1,group-title="频道",XXX: Ast TV Full HD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/2039.m3u8
 #EXTINF:-1,XXX: Ast TV HD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/2040.m3u8
