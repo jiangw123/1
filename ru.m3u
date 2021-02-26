@@ -1,1355 +1,401 @@
-#EXTM3U url-tvg="https://botallen.live/epg.xml"
+四川峨眉电影 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
+CCTV1 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
+CCTV2 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-2/index.m3u8?IAS
+CCTV3 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-3/index.m3u8?IAS
+CCTV4 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-4/index.m3u8?IAS
+CCTV5 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-5/index.m3u8?IAS
+CCTV5+ 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hdcctv05plus/index.m3u8?IAS
+CCTV6 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-6/index.m3u8?IAS
+CCTV7 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-7/index.m3u8?IAS
+CCTV8 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-8/index.m3u8?IAS
+CCTV9 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-news/index.m3u8?IAS
+CCTV10 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-10/index.m3u8?IAS
+CCTV11 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-11/index.m3u8?IAS
+CCTV12 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-12/index.m3u8?IAS
+CCTV13 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8?IAS
+CCTV14 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8?IAS
+CCTV15 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-15/index.m3u8?IAS
+CCTV17 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-17/index.m3u8?IAS
+中国教育1 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiaoyutv/index.m3u8?IAS
+东南卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongnanstv/index.m3u8?IAS
+东方卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongfangstv/index.m3u8?IAS
+北京卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/beijingstv/index.m3u8?IAS
+吉林卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8?IAS
+四川卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sichuanstv/index.m3u8?IAS
+天津卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/tianjinstv/index.m3u8?IAS
+安徽卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/anhuistv/index.m3u8?IAS
+山东卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shandongstv/index.m3u8?IAS
+广东卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guangdongstv/index.m3u8?IAS
+江苏卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiangsustv/index.m3u8?IAS
+河北卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hebeistv/index.m3u8?IAS
+河南卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS
+浙江卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/zhejiangstv/index.m3u8?IAS
+湖北卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hubeistv/index.m3u8?IAS
+湖南卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hunanstv/index.m3u8?IAS
+贵州卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guizhoustv/index.m3u8?IAS
+辽宁卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/liaoningstv/index.m3u8?IAS
+重庆卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/chongqingstv/index.m3u8?IAS
+黑龙江卫视 8M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hljtv1/index.m3u8?IAS
+黑莓动画 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/donghuawg/index.m3u8?IAS
+黑莓电影 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdianying/index.m3u8?IAS
+黑莓电竞 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/wmyx/index.m3u8?IAS
+NewTV中国功夫 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-gzkongfu/index.m3u8?IAS
+NewTV军事评论 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/junshipl/index.m3u8?IAS
+NewTV军旅剧场 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/junlvjc/index.m3u8?IAS
+NewTV农业致富 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/nongyezf/index.m3u8?IAS
+NewTV古装剧场 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guzhuangjc/index.m3u8?IAS
+NewTV家庭剧场 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiatingjc/index.m3u8?IAS
+NewTV怡伴健康 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/ljiankangyouyue/index.m3u8?IAS
+NewTV惊悚悬疑 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jingsongxy/index.m3u8?IAS
+NewTV明星大片 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/mingxingdp/index.m3u8?IAS
+NewTV武搏世界 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-bokesen/index.m3u8?IAS
+NewTV海外剧场 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xiqumd/index.m3u8?IAS
+NewTV爱情喜剧 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/aiqingxj/index.m3u8?IAS
+NewTV精品体育 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jtiyu/index.m3u8?IAS
+NewTV精品大剧 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdaju/index.m3u8?IAS
+NewTV精品纪录 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jingpinjl/index.m3u8?IAS
+NewTV金牌综艺 2.5M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/saishijx/index.m3u8?IAS
+江西风尚购物 4M1080,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/fengshanggw/index.m3u8?IAS
+北京家有购物 720,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jiayougw/index.m3u8?IAS
+CGTN纪录 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-9/index.m3u8?IAS
+云南卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/yunnanstv/index.m3u8?IAS
+宁夏卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/ningxiastv/index.m3u8?IAS
+山西卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shanxistv/index.m3u8?IAS
+广西卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guangxistv/index.m3u8?IAS
+新疆卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xinjiangstv/index.m3u8?IAS
+江西卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiangxistv/index.m3u8?IAS
+海南卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/lvyoustv/index.m3u8?IAS
+甘肃卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/gansustv/index.m3u8?IAS
+西藏卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xizangstv/index.m3u8?IAS
+陕西卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shanxi1stv/index.m3u8?IAS
+青海卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/qinghaistv/index.m3u8?IAS
+内蒙古卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/neimenggustv/index.m3u8?IAS
+吉林延边卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-yanbianstv/index.m3u8?IAS
+四川康巴卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kamba-tv/index.m3u8?IAS
+山东教育卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shandongjy/index.m3u8?IAS
+新疆兵团卫视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/bingtuan/index.m3u8?IAS
+上海哈哈炫动 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xuandongkaton/index.m3u8?IAS
+北京卡酷少儿 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kakukaton/index.m3u8?IAS
+广东嘉佳卡通 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-gdjiahekaton/index.m3u8?IAS
+江苏优漫卡通 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/youmankaton/index.m3u8?IAS
+湖南金鹰卡通 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jinyingkaton/index.m3u8?IAS
+四川公共乡村 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-9/index.m3u8?IAS
+四川妇女儿童 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-7/index.m3u8?IAS
+四川影视文艺 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hdscyswy/index.m3u8?IAS
+四川文化旅游 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-2/index.m3u8?IAS
+四川新闻 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-4/index.m3u8?IAS
+四川科教 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-sctv8/index.m3u8?IAS
+四川经济 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-3/index.m3u8?IAS
+UTV优视影院 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?IAS
+UTV优视教育 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-youshijy/index.m3u8?IAS
+UTV卡通动画 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-katondonghua/index.m3u8?IAS
+UTV家庭影院 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?IAS
+UTV影视精选 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?IAS
+UTV文化教育 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-meiliqingchun/index.m3u8?IAS
+UTV时尚音乐 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-shishangmusic/index.m3u8?IAS
+UTV炫酷动漫 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-xuankudm/index.m3u8?IAS
+UTV热播剧场 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-rebojuc/index.m3u8?IAS
+UTV电影天地 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-dianyingtd/index.m3u8?IAS
+UTV第一剧场 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-diyijc/index.m3u8?IAS
+UTV第一电影 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-diyidy/index.m3u8?IAS
+UTV纪实天下 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jishitianxia/index.m3u8?IAS
+UTV经典剧场 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jingdianjuc/index.m3u8?IAS
+UTV经典影视 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jingdianys/index.m3u8?IAS
+UTV舞蹈视界 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?IAS
+UTV都市剧场 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-doushijuc/index.m3u8?IAS
+UTV金色童年 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jinsetongnian/index.m3u8?IAS
+UTV钓鱼生活 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-xijutiandi/index.m3u8?IAS
+UTV风云体育 576,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-fengyuntiyu/index.m3u8?IAS
+纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+CCTV1 4M/8M/4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
+CCTV1 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+CCTV2 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+CCTV2 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
+CCTV2 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
+CCTV3 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+CCTV4 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+CCTV5 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+CCTV5+ 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
+CCTV5+ 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+CCTV6 3.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+CCTV6 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV7 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+CCTV7 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
+CCTV7 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
+CCTV8 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+CCTV8 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+CCTV9 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+CCTV10 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+CCTV10 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+CCTV10 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+CCTV11 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV12 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
+CCTV12 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+CCTV13 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV14 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+CCTV14 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+CCTV14 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+CCTV15 3.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV17 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+CCTV17 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+CCTV17 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+中国教育1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
+东南卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+东南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
+东方卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+东方卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+东方卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+北京卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+北京卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+北京卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+四川卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+天津卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
+天津卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
+天津卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
+安徽卫视 3.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
+安徽卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+山东卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
+山东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+广东卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+广东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
+广东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+广西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+江苏卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
+江苏卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+江苏卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
+江西卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+江西卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+河北卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+河南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+浙江卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+浙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+浙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+海南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+深圳卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
+深圳卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
+深圳卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
+湖北卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+湖北卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
+湖北卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
+湖南卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
+湖南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+贵州卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+辽宁卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+辽宁卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
+辽宁卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+重庆卫视 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+重庆卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
+重庆卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+黑龙江卫视 3.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
+黑龙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
+黑龙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
+上海纪实人文 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+上海纪实人文 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
+上海纪实人文 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+北京冬奥纪实 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+北京冬奥纪实 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+湖南快乐垂钓 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+湖南茶频道 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+湖南金鹰纪实 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+NewTV江西 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225979/index.m3u8
+NewTV山东 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226184/index.m3u8
+NewTV广东 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226185/index.m3u8
+NewTV四川 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226187/index.m3u8
+NewTV吉林 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226189/index.m3u8
+NewTV黑龙江 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226192/index.m3u8
+NewTV广西 4M720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226186/index.m3u8
+NewTV云南 4M720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226188/index.m3u8
+NewTV东北热剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV中国功夫 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+NewTV军事评论 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+NewTV农业致富 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+NewTV动作电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8
+NewTV古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+NewTV家庭剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV惊悚悬疑 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225717/index.m3u8
+NewTV明星大片 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+NewTV欢乐剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV武搏世界 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+NewTV海外剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+NewTV潮妈辣婆 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+NewTV炫舞未来 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV爱情喜剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225748/index.m3u8
+NewTV精品体育 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+NewTV精品大剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+NewTV超级体育 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
+NewTV超级体育 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+NewTV超级电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级电影 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超级电视剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+NewTV超级电视剧 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
+NewTV超级综艺 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
+NewTV超级综艺 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+NewTV金牌综艺 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+黑莓动画 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+黑莓电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓电竞 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
+北京家有购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226190/index.m3u8
+江苏好享购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225973/index.m3u8
+江西风尚购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225970/index.m3u8
+江西风尚购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225974/index.m3u8
+山西优购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226219/index.m3u8
+湖南快乐购 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225975/index.m3u8
+江西少儿 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+江西教育 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+江西新闻 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+江西经济生活 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+九江新闻综合 3M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225774/index.m3u8
+九江公共 3M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225775/index.m3u8
+吉州 3M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225679/index.m3u8
+CCTV1 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls
+CCTV1 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
+CCTV2 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225572/index.m3u8?fmt=ts2hls
+CCTV2 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225919/index.m3u8?fmt=ts2hls
+CCTV4 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225571/index.m3u8?fmt=ts2hls
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225751/index.m3u8
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225752/index.m3u8
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225753/index.m3u8
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225754/index.m3u8
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225755/index.m3u8
+CCTV5 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8
+CCTV7 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225570/index.m3u8?fmt=ts2hls
+CCTV9 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225920/index.m3u8?fmt=ts2hls
+CCTV10 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225569/index.m3u8?fmt=ts2hls
+CCTV11 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225568/index.m3u8?fmt=ts2hls
+CCTV12 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225567/index.m3u8?fmt=ts2hls
+CCTV12 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8
+CCTV12 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225921/index.m3u8?fmt=ts2hls
+CCTV13 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225566/index.m3u8?fmt=ts2hls
+CCTV14 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225565/index.m3u8?fmt=ts2hls
+CCTV15 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225564/index.m3u8?fmt=ts2hls
+CCTV17 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225910/index.m3u8?fmt=ts2hls
+CCTV17 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225922/index.m3u8?fmt=ts2hls
+CCTV中视购物 4M720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225976/index.m3u8
+中国教育1 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
+中国教育1 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
+中国教育4 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
+中国教育4 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
+中国教育早教 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
+中央新影中学生 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225515/index.m3u8?fmt=ts2hls
+中央新影老故事 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225517/index.m3u8?fmt=ts2hls
+CGTN 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
+CGTN纪录 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
+东南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225552/index.m3u8?fmt=ts2hls
+东方卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225561/index.m3u8?fmt=ts2hls
+云南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225538/index.m3u8?fmt=ts2hls
+云南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
+内蒙古卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8
+北京卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225543/index.m3u8?fmt=ts2hls
+厦门卫视 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
+吉林卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8
+吉林卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225553/index.m3u8?fmt=ts2hls
+四川卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225733/index.m3u8
+四川卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225532/index.m3u8?fmt=ts2hls
+天津卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225556/index.m3u8?fmt=ts2hls
+宁夏卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8
+宁夏卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225535/index.m3u8?fmt=ts2hls
+安徽卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225541/index.m3u8?fmt=ts2hls
+山东卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225539/index.m3u8?fmt=ts2hls
+山西卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225730/index.m3u8
+山西卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls
+广东卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225558/index.m3u8?fmt=ts2hls
+广西卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225551/index.m3u8?fmt=ts2hls
+广西卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8
+新疆卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225534/index.m3u8?fmt=ts2hls
+新疆卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8
+江苏卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225582/index.m3u8?fmt=ts2hls
+江西卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225583/index.m3u8?fmt=ts2hls
+河北卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8
+河北卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225544/index.m3u8?fmt=ts2hls
+河南卫视 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226196/index.m3u8
+河南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225545/index.m3u8?fmt=ts2hls
+浙江卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225557/index.m3u8?fmt=ts2hls
+海南卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8
+海南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225548/index.m3u8?fmt=ts2hls
+深圳卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225559/index.m3u8?fmt=ts2hls
+湖北卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225550/index.m3u8?fmt=ts2hls
+湖南卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225555/index.m3u8?fmt=ts2hls
+甘肃卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8
+甘肃卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225536/index.m3u8?fmt=ts2hls
+西藏卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
+西藏卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225562/index.m3u8?fmt=ts2hls
+贵州卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225728/index.m3u8
+贵州卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225537/index.m3u8?fmt=ts2hls
+辽宁卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225547/index.m3u8?fmt=ts2hls
+重庆卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225540/index.m3u8?fmt=ts2hls
+陕西卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8
+陕西卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225531/index.m3u8?fmt=ts2hls
+青海卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8
+青海卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225546/index.m3u8?fmt=ts2hls
+黑龙江卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225542/index.m3u8?fmt=ts2hls
+吉林延边卫视 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226201/index.m3u8
+四川康巴卫视 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8
+山东教育卫视 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
+广东南方卫视上星 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
+新疆兵团卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225530/index.m3u8?fmt=ts2hls
+新疆兵团卫视 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
+陕西农林卫视 4M432,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
+青海安多卫视 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
+上海哈哈炫动 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8
+上海哈哈炫动 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/index.m3u8?fmt=ts2hls
+北京卡酷少儿 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
+广东嘉佳卡通 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+江苏优漫卡通 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
+江苏靓妆 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225509/index.m3u8?fmt=ts2hls
+河南梨园 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+河南武术世界 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
+湖南金鹰卡通 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8
+湖南金鹰卡通 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225554/index.m3u8?fmt=ts2hls
+湖南金鹰纪实 4M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
+重庆汽摩 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+青岛中华美食 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+江西公共农业 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+江西少儿 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225577/index.m3u8?fmt=ts2hls
+江西影视旅游 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+江西新闻 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
+江西经济生活 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
+江西都市 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+北京家有购物 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225971/index.m3u8
+聚鲨环球精选 3.5M576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225972/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225681/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225682/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225683/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225684/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225763/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225788/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225789/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225914/index.m3u8
+已下线 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225915/index.m3u8
 
-##Token:vsaytUCz8x
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI =====" tvg-logo="" group-title="HINDI",===== HINDI - 205 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96166
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CORONA VIRUS INFO" tvg-logo="http://www.vodkom.com:25461/Logo/corona.png" group-title="HINDI",HINDI: CORONA VIRUS INFO
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96167
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DESI PLUS" tvg-logo="" group-title="HINDI",HINDI: DESI PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96168
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="" group-title="HINDI",HINDI: ZEE ACTION
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96169
-#EXTINF:-1 tvg-ID="167" tvg-name="HINDI: ZEE TV HD" tvg-logo="" group-title="HINDI",HINDI: ZEE TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96170
-#EXTINF:-1 tvg-ID="165" tvg-name="HINDI: ZEE CINEMA HD" tvg-logo="" group-title="HINDI",HINDI: ZEE CINEMA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96171
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZING" tvg-logo="" group-title="HINDI",HINDI: ZING
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96172
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="" group-title="HINDI",HINDI: STAR BHARAT HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96173
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="" group-title="HINDI",HINDI: STAR GOLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96174
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="" group-title="HINDI",HINDI: STAR GOLD SELECT HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96175
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="" group-title="HINDI",HINDI: STAR PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96176
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="" group-title="HINDI",HINDI: STAR UTSAV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96177
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="" group-title="HINDI",HINDI: STAR UTSAV MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96178
-#EXTINF:-1 tvg-ID="291" tvg-name="HINDI: SONY HD" tvg-logo="" group-title="HINDI",HINDI: SONY HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96179
-#EXTINF:-1 tvg-ID="476" tvg-name="HINDI: SONY MAX HD" tvg-logo="" group-title="HINDI",HINDI: SONY MAX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96180
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="" group-title="HINDI",HINDI: SONY MAX 2
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96181
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="" group-title="HINDI",HINDI: SONY PIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96182
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="" group-title="HINDI",HINDI: SONY BBC EARTH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96183
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY SAB HD" tvg-logo="" group-title="HINDI",HINDI: SONY SAB HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96184
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PAL" tvg-logo="" group-title="HINDI",HINDI: SONY PAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96185
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="" group-title="HINDI",HINDI: SONY WAH
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96186
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="" group-title="HINDI",HINDI: SONY YAY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96187
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MIX HD" tvg-logo="" group-title="HINDI",HINDI: SONY MIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96188
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: B4U MOVIES" tvg-logo="" group-title="HINDI",HINDI: B4U MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96189
-#EXTINF:-1 tvg-ID="144" tvg-name="HINDI: COLORS HD" tvg-logo="" group-title="HINDI",HINDI: COLORS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96190
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="" group-title="HINDI",HINDI: 9X JALWA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96191
-#EXTINF:-1 tvg-ID="173" tvg-name="HINDI: AAJ TAK HD" tvg-logo="" group-title="HINDI",HINDI: AAJ TAK HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96192
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AAJ TAK TEZ" tvg-logo="" group-title="HINDI",HINDI: AAJ TAK TEZ
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96193
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA" tvg-logo="" group-title="HINDI",HINDI: AASTHA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96194
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA BHAJAN" tvg-logo="" group-title="HINDI",HINDI: AASTHA BHAJAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96195
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ABP NEWS INDIA" tvg-logo="" group-title="HINDI",HINDI: ABP NEWS INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96196
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND PICTURES HD" tvg-logo="" group-title="HINDI",HINDI: AND PICTURES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96197
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND TV HD" tvg-logo="" group-title="HINDI",HINDI: AND TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96198
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="" group-title="HINDI",HINDI: ANIMAL PLANET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96199
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ARIHANT" tvg-logo="" group-title="HINDI",HINDI: ARIHANT
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96200
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BABY TV HD" tvg-logo="" group-title="HINDI",HINDI: BABY TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96201
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BIG MAGIC HD" tvg-logo="" group-title="HINDI",HINDI: BIG MAGIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96202
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BINDAS MOVIES" tvg-logo="" group-title="HINDI",HINDI: BINDAS MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96203
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="" group-title="HINDI",HINDI: CINEPLEX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96204
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COMEDY ACTIVE" tvg-logo="" group-title="HINDI",HINDI: COMEDY ACTIVE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96205
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="" group-title="HINDI",HINDI: DD NATIONAL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96206
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD RAJASTHAN" tvg-logo="" group-title="HINDI",HINDI: DD RAJASTHAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96207
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARATI" tvg-logo="" group-title="HINDI",HINDI: DD BHARATI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96208
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BIHAR" tvg-logo="" group-title="HINDI",HINDI: DD BIHAR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96209
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD INDIA" tvg-logo="" group-title="HINDI",HINDI: DD INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96210
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="" group-title="HINDI",HINDI: DD NEWS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96211
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="" group-title="HINDI",HINDI: DD SPORTS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96212
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD ORIYA" tvg-logo="" group-title="HINDI",HINDI: DD ORIYA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96213
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD UP" tvg-logo="" group-title="HINDI",HINDI: DD UP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96214
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD URDU" tvg-logo="" group-title="HINDI",HINDI: DD URDU
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96215
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD MP" tvg-logo="" group-title="HINDI",HINDI: DD MP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96216
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARTI" tvg-logo="" group-title="HINDI",HINDI: DD BHARTI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96217
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY JEET HD" tvg-logo="" group-title="HINDI",HINDI: DISCOVERY JEET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96218
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="" group-title="HINDI",HINDI: DISCOVERY WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96219
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: E 24" tvg-logo="" group-title="HINDI",HINDI: E 24
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96220
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ENTER 10 MOVIES" tvg-logo="" group-title="HINDI",HINDI: ENTER 10 MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96221
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: EPIC HD" tvg-logo="" group-title="HINDI",HINDI: EPIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96222
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOX LIFE HD" tvg-logo="" group-title="HINDI",HINDI: FOX LIFE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96223
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HISTORY TV18 HD" tvg-logo="" group-title="HINDI",HINDI: HISTORY TV18 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96224
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HOUSEFULL ACTION" tvg-logo="" group-title="HINDI",HINDI: HOUSEFULL ACTION
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96225
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HOUSEFULL MOVIES" tvg-logo="" group-title="HINDI",HINDI: HOUSEFULL MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96226
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA BHAKTI SAGAR HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA BHAKTI SAGAR HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96227
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA DIL SE HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA DIL SE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96228
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA KADAK HITS HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA KADAK HITS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96229
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA NAZRANA HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA NAZRANA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96230
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA POP PATAKA HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA POP PATAKA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96231
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: JANTA TV" tvg-logo="" group-title="HINDI",HINDI: JANTA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96232
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: LIVING FOODZ HD" tvg-logo="" group-title="HINDI",HINDI: LIVING FOODZ HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96233
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MINIPLEX HD" tvg-logo="" group-title="HINDI",HINDI: MINIPLEX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96234
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MOVIES ACTIVE" tvg-logo="" group-title="HINDI",HINDI: MOVIES ACTIVE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96235
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV BEATS HD" tvg-logo="" group-title="HINDI",HINDI: MTV BEATS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96236
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV PLUS HD" tvg-logo="" group-title="HINDI",HINDI: MTV PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96237
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MUSIC INDIA" tvg-logo="" group-title="HINDI",HINDI: MUSIC INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96238
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NAT GEO WILD HD" tvg-logo="" group-title="HINDI",HINDI: NAT GEO WILD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96239
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="HINDI",HINDI: NATIONAL GEOGRAPHIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96240
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 ASSAM" tvg-logo="" group-title="HINDI",HINDI: NEWS 18 ASSAM
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96241
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA BIHAR" tvg-logo="" group-title="HINDI",HINDI: SAHARA BIHAR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96242
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 INDIA" tvg-logo="" group-title="HINDI",HINDI: NEWS 18 INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96243
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 RAJASTHAN" tvg-logo="" group-title="HINDI",HINDI: NEWS 18 RAJASTHAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96244
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS NATION" tvg-logo="" group-title="HINDI",HINDI: NEWS NATION
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96245
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS STATE" tvg-logo="" group-title="HINDI",HINDI: NEWS STATE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96246
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: REPUBLIC TV" tvg-logo="" group-title="HINDI",HINDI: REPUBLIC TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96247
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NICK PLUS HD" tvg-logo="" group-title="HINDI",HINDI: NICK PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96248
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PARAS TV" tvg-logo="" group-title="HINDI",HINDI: PARAS TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96249
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PEACE OF MIND HD" tvg-logo="" group-title="HINDI",HINDI: PEACE OF MIND HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96250
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SKY STAR MOVIES" tvg-logo="" group-title="HINDI",HINDI: SKY STAR MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96251
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SOHAM TV" tvg-logo="" group-title="HINDI",HINDI: SOHAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96252
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="" group-title="HINDI",HINDI: TATA SKY BOLLYWOOD PREMIERE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96253
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: UTV ACTION" tvg-logo="" group-title="HINDI",HINDI: UTV ACTION
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96254
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: UTV HD" tvg-logo="" group-title="HINDI",HINDI: UTV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96255
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: VEDIC TV" tvg-logo="" group-title="HINDI",HINDI: VEDIC TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96256
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: WOW CINEMA" tvg-logo="" group-title="HINDI",HINDI: WOW CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96257
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL" tvg-logo="" group-title="HINDI",HINDI: ZEE ANMOL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96258
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL CINEMA" tvg-logo="" group-title="HINDI",HINDI: ZEE ANMOL CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96259
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE HINDUSTAN NEWS" tvg-logo="" group-title="HINDI",HINDI: ZEE HINDUSTAN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96260
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS" tvg-logo="" group-title="HINDI",HINDI: ZEE NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96261
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS BIHAR" tvg-logo="" group-title="HINDI",HINDI: ZEE NEWS BIHAR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96262
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS MP/CHATTISGARH" tvg-logo="" group-title="HINDI",HINDI: ZEE NEWS MP/CHATTISGARH
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96263
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS UP" tvg-logo="" group-title="HINDI",HINDI: ZEE NEWS UP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96264
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE RAJASTHAN" tvg-logo="" group-title="HINDI",HINDI: ZEE RAJASTHAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96265
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ABN NEWS TV" tvg-logo="" group-title="HINDI",HINDI: ABN NEWS TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96266
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: JEHOVAH JIREH TV" tvg-logo="" group-title="HINDI",HINDI: JEHOVAH JIREH TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96267
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TRUCKING TODAY" tvg-logo="" group-title="HINDI",HINDI: TRUCKING TODAY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96268
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TENN TV" tvg-logo="" group-title="HINDI",HINDI: TENN TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96269
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="" group-title="HINDI",HINDI: POGO KIDS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96270
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEMA TV" tvg-logo="" group-title="HINDI",HINDI: CINEMA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96271
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MOVIE HOUSE" tvg-logo="" group-title="HINDI",HINDI: MOVIE HOUSE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96272
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: GANGA" tvg-logo="" group-title="HINDI",HINDI: GANGA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96273
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND FLIX HD" tvg-logo="" group-title="HINDI",HINDI: AND FLIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96274
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISH CINE ACTIVE" tvg-logo="" group-title="HINDI",HINDI: DISH CINE ACTIVE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96275
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: EVERGREEN CLASSIC" tvg-logo="" group-title="HINDI",HINDI: EVERGREEN CLASSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96276
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: WARNER BROS" tvg-logo="" group-title="HINDI",HINDI: WARNER BROS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96277
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY SD" tvg-logo="" group-title="HINDI",HINDI: DISNEY SD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96278
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CNBC TV18 NEWS HD" tvg-logo="" group-title="HINDI",HINDI: CNBC TV18 NEWS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96279
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TIMES NOW HD" tvg-logo="" group-title="HINDI",HINDI: TIMES NOW HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96280
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MNX HD" tvg-logo="" group-title="HINDI",HINDI: MNX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96281
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="" group-title="HINDI",HINDI: MOVIES NOW HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96282
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MN PLUS HD" tvg-logo="" group-title="HINDI",HINDI: MN PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96283
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY INTERNATIONAL HD" tvg-logo="" group-title="HINDI",HINDI: DISNEY INTERNATIONAL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96284
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD HD" tvg-logo="" group-title="HINDI",HINDI: TATA SKY BOLLYWOOD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96285
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CN PLUS HD" tvg-logo="" group-title="HINDI",HINDI: CN PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96286
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: UTV MOVIES" tvg-logo="" group-title="HINDI",HINDI: UTV MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96287
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY XD" tvg-logo="" group-title="HINDI",HINDI: DISNEY XD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96288
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ISHWAR TV" tvg-logo="" group-title="HINDI",HINDI: ISHWAR TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96289
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CARTOON NETWORK" tvg-logo="" group-title="HINDI",HINDI: CARTOON NETWORK
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96290
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: REPUBLIC BHARAT" tvg-logo="" group-title="HINDI",HINDI: REPUBLIC BHARAT
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96291
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: B4U MUSIC" tvg-logo="" group-title="HINDI",HINDI: B4U MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96292
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DABANGG" tvg-logo="" group-title="HINDI",HINDI: DABANGG
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96293
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA NEWS" tvg-logo="" group-title="HINDI",HINDI: INDIA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96294
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA TV" tvg-logo="" group-title="HINDI",HINDI: INDIA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96295
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DANGAL" tvg-logo="" group-title="HINDI",HINDI: DANGAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96296
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MASTII" tvg-logo="" group-title="HINDI",HINDI: MASTII
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96297
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NDTV INDIA" tvg-logo="" group-title="HINDI",HINDI: NDTV INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96298
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA NEWS MP" tvg-logo="" group-title="HINDI",HINDI: INDIA NEWS MP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96299
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA NEWS UP" tvg-logo="" group-title="HINDI",HINDI: INDIA NEWS UP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96300
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA NEWS HARYANA" tvg-logo="" group-title="HINDI",HINDI: INDIA NEWS HARYANA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96301
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS X" tvg-logo="" group-title="HINDI",HINDI: NEWS X
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96302
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA NEWS RAJASTHAN" tvg-logo="" group-title="HINDI",HINDI: INDIA NEWS RAJASTHAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96303
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SUDARSHAN NEWS" tvg-logo="" group-title="HINDI",HINDI: SUDARSHAN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96304
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MAHA MOVIE" tvg-logo="" group-title="HINDI",HINDI: MAHA MOVIE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96305
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA NEWS NATIONAL" tvg-logo="" group-title="HINDI",HINDI: SAHARA NEWS NATIONAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96306
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA ONE" tvg-logo="" group-title="HINDI",HINDI: SAHARA ONE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96307
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA MP" tvg-logo="" group-title="HINDI",HINDI: SAHARA MP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96308
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA MUMBAI" tvg-logo="" group-title="HINDI",HINDI: SAHARA MUMBAI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96309
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA NCR" tvg-logo="" group-title="HINDI",HINDI: SAHARA NCR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96310
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA UP" tvg-logo="" group-title="HINDI",HINDI: SAHARA UP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96311
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA ALAMI" tvg-logo="" group-title="HINDI",HINDI: SAHARA ALAMI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96312
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA FILMY" tvg-logo="" group-title="HINDI",HINDI: SAHARA FILMY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96313
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HINDI KHABAR" tvg-logo="" group-title="HINDI",HINDI: HINDI KHABAR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96314
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NDTV GOOD TIMES" tvg-logo="" group-title="HINDI",HINDI: NDTV GOOD TIMES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96315
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTUNES PLUS" tvg-logo="" group-title="HINDI",HINDI: MTUNES PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96316
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MULTIPLEX MOVIES" tvg-logo="" group-title="HINDI",HINDI: MULTIPLEX MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96317
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: OM SHANTI" tvg-logo="" group-title="HINDI",HINDI: OM SHANTI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96318
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: IBC 24" tvg-logo="" group-title="HINDI",HINDI: IBC 24
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96319
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 24" tvg-logo="" group-title="HINDI",HINDI: NEWS 24
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96320
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CVR NEWS" tvg-logo="" group-title="HINDI",HINDI: CVR NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96321
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL VOICE" tvg-logo="" group-title="HINDI",HINDI: NATIONAL VOICE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96322
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SHUBH TV" tvg-logo="" group-title="HINDI",HINDI: SHUBH TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96323
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CHANNEL WIN" tvg-logo="" group-title="HINDI",HINDI: CHANNEL WIN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96324
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: RAMDHENU" tvg-logo="" group-title="HINDI",HINDI: RAMDHENU
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96325
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: RENGONI" tvg-logo="" group-title="HINDI",HINDI: RENGONI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96326
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOOD FOOD HD" tvg-logo="" group-title="HINDI",HINDI: FOOD FOOD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96327
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: KRISHNA VANI HD" tvg-logo="" group-title="HINDI",HINDI: KRISHNA VANI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96328
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DILLI AAJ TAKK" tvg-logo="" group-title="HINDI",HINDI: DILLI AAJ TAKK
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96329
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PRAG NEWS" tvg-logo="" group-title="HINDI",HINDI: PRAG NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96330
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: RANG" tvg-logo="" group-title="HINDI",HINDI: RANG
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96331
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 LIVE" tvg-logo="" group-title="HINDI",HINDI: NEWS 18 LIVE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96332
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NDTV PROFIT" tvg-logo="" group-title="HINDI",HINDI: NDTV PROFIT
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96333
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NDTV 24x7" tvg-logo="" group-title="HINDI",HINDI: NDTV 24x7
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96334
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA TODAY" tvg-logo="" group-title="HINDI",HINDI: INDIA TODAY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96335
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X MUSIC" tvg-logo="" group-title="HINDI",HINDI: 9X MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96336
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: E NEWS 24" tvg-logo="" group-title="HINDI",HINDI: E NEWS 24
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96337
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE BUSINESS" tvg-logo="" group-title="HINDI",HINDI: ZEE BUSINESS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96338
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SANSKAR TV" tvg-logo="" group-title="HINDI",HINDI: SANSKAR TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96339
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SATSANG TV" tvg-logo="" group-title="HINDI",HINDI: SATSANG TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96340
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY KIDS" tvg-logo="" group-title="HINDI",HINDI: DISCOVERY KIDS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96341
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEPAL 1" tvg-logo="" group-title="HINDI",HINDI: NEPAL 1
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96342
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD 2" tvg-logo="" group-title="HINDI",HINDI: STAR GOLD 2
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96343
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND EXPLORER HD" tvg-logo="" group-title="HINDI",HINDI: AND EXPLORER HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96344
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ETC BOLLYWOOD" tvg-logo="" group-title="HINDI",HINDI: ZEE ETC BOLLYWOOD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96345
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA BOL HADIPA" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA BOL HADIPA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96346
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MIRROR NOW" tvg-logo="" group-title="HINDI",HINDI: MIRROR NOW
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96347
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TEJ NEWS" tvg-logo="" group-title="HINDI",HINDI: TEJ NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96348
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AMAR UJALA NEWS" tvg-logo="" group-title="HINDI",HINDI: AMAR UJALA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96349
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE YUVA" tvg-logo="" group-title="HINDI",HINDI: ZEE YUVA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96350
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PRARTHANA BHAWAN" tvg-logo="" group-title="HINDI",HINDI: PRARTHANA BHAWAN
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96351
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: RAJASTHAN PATRIKA" tvg-logo="" group-title="HINDI",HINDI: RAJASTHAN PATRIKA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96352
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: REPUBLIC NEWS" tvg-logo="" group-title="HINDI",HINDI: REPUBLIC NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96353
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: APN NEWS" tvg-logo="" group-title="HINDI",HINDI: APN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96354
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: INDIA VOICE" tvg-logo="" group-title="HINDI",HINDI: INDIA VOICE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96355
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: IDN LOKMAT" tvg-logo="" group-title="HINDI",HINDI: IDN LOKMAT
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96356
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PEACE MUSIC" tvg-logo="" group-title="HINDI",HINDI: PEACE MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96357
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS MP" tvg-logo="" group-title="HINDI",HINDI: ZEE NEWS MP
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96358
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SHOWBOX" tvg-logo="" group-title="HINDI",HINDI: SHOWBOX
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96359
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DIVYA TV" tvg-logo="" group-title="HINDI",HINDI: DIVYA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96360
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TARANG TV" tvg-logo="" group-title="HINDI",HINDI: TARANG TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96361
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ALANKAR TV" tvg-logo="" group-title="HINDI",HINDI: ALANKAR TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96362
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: PRAMEYA NEWS 7" tvg-logo="" group-title="HINDI",HINDI: PRAMEYA NEWS 7
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96363
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TARANG MUSIC" tvg-logo="" group-title="HINDI",HINDI: TARANG MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96364
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SARTHAK TV" tvg-logo="" group-title="HINDI",HINDI: SARTHAK TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96365
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE KALINGA" tvg-logo="" group-title="HINDI",HINDI: ZEE KALINGA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/96366
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: YESHUAA  TV" tvg-logo="" group-title="HINDI",HINDI: YESHUAA  TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/116087
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CHANNEL Y" tvg-logo="" group-title="HINDI",HINDI: CHANNEL Y
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/116086
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DASAM GRANTH TV" tvg-logo="" group-title="HINDI",HINDI: DASAM GRANTH TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/116085
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: GAUNDA PUNJAB TV" tvg-logo="" group-title="HINDI",HINDI: GAUNDA PUNJAB TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/116084
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TPS NETWORK" tvg-logo="" group-title="HINDI",HINDI: TPS NETWORK
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/116083
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== BENGALI ===== " tvg-logo="" group-title="BENGALI",===== BENGALI - 13 CHANNELS ===== 
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95765
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="" group-title="BENGALI",BENGALI: COLORS BANGLA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95766
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: NAT GEO HD" tvg-logo="" group-title="BENGALI",BENGALI: NAT GEO HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95767
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: SANGEET BANGLA" tvg-logo="" group-title="BENGALI",BENGALI: SANGEET BANGLA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95768
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="" group-title="BENGALI",BENGALI: STAR JALSHA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95769
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA MOVIES HD" tvg-logo="" group-title="BENGALI",BENGALI: STAR JALSHA MOVIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95770
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: TATA SKY BANGLA HD" tvg-logo="" group-title="BENGALI",BENGALI: TATA SKY BANGLA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95771
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: DD BANGLA" tvg-logo="" group-title="BENGALI",BENGALI: DD BANGLA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95772
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: AAKASH BANGLA" tvg-logo="" group-title="BENGALI",BENGALI: AAKASH BANGLA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95773
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: ZEE BANGLA CINEMA" tvg-logo="" group-title="BENGALI",BENGALI: ZEE BANGLA CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95774
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: 24 GHANTA" tvg-logo="" group-title="BENGALI",BENGALI: 24 GHANTA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95775
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: ABP ANANDA" tvg-logo="" group-title="BENGALI",BENGALI: ABP ANANDA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95776
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: MUSIC FATAFATI" tvg-logo="" group-title="BENGALI",BENGALI: MUSIC FATAFATI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95777
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: ZEE BANGLA HD" tvg-logo="" group-title="BENGALI",BENGALI: ZEE BANGLA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95778
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== BHOJPURI ===== " tvg-logo="" group-title="BHOJPURI",===== BHOJPURI - 4 CHANNELS ===== 
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95779
-#EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: DANGAL" tvg-logo="" group-title="BHOJPURI",BHOJPURI: DANGAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95780
-#EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: SANGEET BHOJPURI" tvg-logo="" group-title="BHOJPURI",BHOJPURI: SANGEET BHOJPURI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95781
-#EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: HUNGAMA DHAMAAL HD" tvg-logo="" group-title="BHOJPURI",BHOJPURI: HUNGAMA DHAMAAL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95782
-#EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: BHOJPURI CINEMA" tvg-logo="" group-title="BHOJPURI",BHOJPURI: BHOJPURI CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95783
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== GUJARATI ===== " tvg-logo="" group-title="GUJARATI",===== GUJARATI - 30 CHANNELS ===== 
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95784
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: ABP ASMITA" tvg-logo="" group-title="GUJARATI",GUJARATI: ABP ASMITA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95785
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: CNBC AAWAZ" tvg-logo="" group-title="GUJARATI",GUJARATI: CNBC AAWAZ
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95786
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: CNBC BAZAR" tvg-logo="" group-title="GUJARATI",GUJARATI: CNBC BAZAR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95787
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: COLORS GUJARATI" tvg-logo="" group-title="GUJARATI",GUJARATI: COLORS GUJARATI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95788
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: COLORS GUJARATI CINEMA" tvg-logo="" group-title="GUJARATI",GUJARATI: COLORS GUJARATI CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95789
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: GSTV" tvg-logo="" group-title="GUJARATI",GUJARATI: GSTV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95790
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: INDIA NEWS GUJARAT" tvg-logo="" group-title="GUJARATI",GUJARATI: INDIA NEWS GUJARAT
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95791
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: KARTAVYA TV" tvg-logo="" group-title="GUJARATI",GUJARATI: KARTAVYA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95792
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: LAKSHYA TV HD" tvg-logo="" group-title="GUJARATI",GUJARATI: LAKSHYA TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95793
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: MANTAVYA NEWS" tvg-logo="" group-title="GUJARATI",GUJARATI: MANTAVYA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95794
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: SANDESH NEWS" tvg-logo="" group-title="GUJARATI",GUJARATI: SANDESH NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95795
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: TV9 NEWS" tvg-logo="" group-title="GUJARATI",GUJARATI: TV9 NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95796
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 1" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 1
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95797
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 10" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 10
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95798
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 11" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 11
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95799
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 12" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 12
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95800
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 13" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 13
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95801
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 14" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 14
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95802
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 15" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 15
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95803
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 16" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 16
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95804
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 17" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 17
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95805
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 2" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 2
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95806
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 3" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 3
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95807
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 4" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 4
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95808
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 5" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 5
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95809
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 6" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 6
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95810
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 7" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 7
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95811
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 8" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 8
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95812
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VANDE GUJARATI 9" tvg-logo="" group-title="GUJARATI",GUJARATI: VANDE GUJARATI 9
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95813
-#EXTINF:-1 tvg-ID="" tvg-name="GUJARATI: VTV NEWS" tvg-logo="" group-title="GUJARATI",GUJARATI: VTV NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95814
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== KANNADA =====" tvg-logo="" group-title="KANNADA",===== KANNADA - 21 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95815
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: BTV NEWS" tvg-logo="" group-title="KANNADA",KANNADA: BTV NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95816
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: COLORS KANNADA HD" tvg-logo="" group-title="KANNADA",KANNADA: COLORS KANNADA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95817
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: COLORS KANNADA MOVIES" tvg-logo="" group-title="KANNADA",KANNADA: COLORS KANNADA MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95818
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: COLORS SUPER" tvg-logo="" group-title="KANNADA",KANNADA: COLORS SUPER
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95819
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: DD CHANDANA" tvg-logo="" group-title="KANNADA",KANNADA: DD CHANDANA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95820
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: DIGHVIJAY NEWS" tvg-logo="" group-title="KANNADA",KANNADA: DIGHVIJAY NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95821
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: KASTURI TV" tvg-logo="" group-title="KANNADA",KANNADA: KASTURI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95822
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: NEWS 18" tvg-logo="" group-title="KANNADA",KANNADA: NEWS 18
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95823
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: PUBLIC TV" tvg-logo="" group-title="KANNADA",KANNADA: PUBLIC TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95824
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: RAJ MUSIC" tvg-logo="" group-title="KANNADA",KANNADA: RAJ MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95825
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: RAJ NEWS KANNADA" tvg-logo="" group-title="KANNADA",KANNADA: RAJ NEWS KANNADA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95826
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: SAKKAT HD" tvg-logo="" group-title="KANNADA",KANNADA: SAKKAT HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95827
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: STAR SUVARNA HD" tvg-logo="" group-title="KANNADA",KANNADA: STAR SUVARNA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95828
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: STAR SUVARNA NEWS" tvg-logo="" group-title="KANNADA",KANNADA: STAR SUVARNA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95829
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: SUVARNA NEWS" tvg-logo="" group-title="KANNADA",KANNADA: SUVARNA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95830
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: TV9 KANNADA" tvg-logo="" group-title="KANNADA",KANNADA: TV9 KANNADA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95831
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: UDAYA COMEDY" tvg-logo="" group-title="KANNADA",KANNADA: UDAYA COMEDY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95832
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: UDAYA HD" tvg-logo="" group-title="KANNADA",KANNADA: UDAYA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95833
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: UDAYA MOVIES" tvg-logo="" group-title="KANNADA",KANNADA: UDAYA MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95834
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: UDAYA MUSIC" tvg-logo="" group-title="KANNADA",KANNADA: UDAYA MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95835
-#EXTINF:-1 tvg-ID="" tvg-name="KANNADA: ZEE HD" tvg-logo="" group-title="KANNADA",KANNADA: ZEE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95836
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== MARATHI =====" tvg-logo="" group-title="MARATHI",===== MARATHI - 13 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95837
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: 9X JHAKAAS" tvg-logo="" group-title="MARATHI",MARATHI: 9X JHAKAAS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95838
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: COLORS MARATHI HD" tvg-logo="" group-title="MARATHI",MARATHI: COLORS MARATHI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95839
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: DD SAHAYADRI" tvg-logo="" group-title="MARATHI",MARATHI: DD SAHAYADRI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95840
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: FAKHT MARATHI" tvg-logo="" group-title="MARATHI",MARATHI: FAKHT MARATHI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95841
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: SANGEET MARATHI" tvg-logo="" group-title="MARATHI",MARATHI: SANGEET MARATHI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95842
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: SONY AATH" tvg-logo="" group-title="MARATHI",MARATHI: SONY AATH
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95843
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: SONY MARATHI" tvg-logo="" group-title="MARATHI",MARATHI: SONY MARATHI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95844
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: STAR PARVAH HD" tvg-logo="" group-title="MARATHI",MARATHI: STAR PARVAH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95845
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: TULJA BHAVANI" tvg-logo="" group-title="MARATHI",MARATHI: TULJA BHAVANI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95846
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: TV9 MARATHI" tvg-logo="" group-title="MARATHI",MARATHI: TV9 MARATHI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95847
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: ZEE 24 TAAS" tvg-logo="" group-title="MARATHI",MARATHI: ZEE 24 TAAS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95848
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: ZEE MARATHI HD" tvg-logo="" group-title="MARATHI",MARATHI: ZEE MARATHI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95849
-#EXTINF:-1 tvg-ID="" tvg-name="MARATHI: ZEE TALKIES HD" tvg-logo="" group-title="MARATHI",MARATHI: ZEE TALKIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95850
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== TELUGU =====" tvg-logo="" group-title="TELUGU",===== TELUGU - 32 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95851
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: 10 TV" tvg-logo="" group-title="TELUGU",TELUGU: 10 TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95852
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: BHAKTI TV" tvg-logo="" group-title="TELUGU",TELUGU: BHAKTI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95853
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: DD SAPTAGIRI" tvg-logo="" group-title="TELUGU",TELUGU: DD SAPTAGIRI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95854
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: DISCOVERY WORLD HD" tvg-logo="" group-title="TELUGU",TELUGU: DISCOVERY WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95855
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: ETV CINEMA" tvg-logo="" group-title="TELUGU",TELUGU: ETV CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95856
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: ETV HD" tvg-logo="" group-title="TELUGU",TELUGU: ETV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95857
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: ETV LIFE" tvg-logo="" group-title="TELUGU",TELUGU: ETV LIFE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95858
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: ETV PLUS" tvg-logo="" group-title="TELUGU",TELUGU: ETV PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95859
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI COMEDY" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI COMEDY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95860
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI HD" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95861
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI LIFE" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI LIFE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95862
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI MOVIES HD" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI MOVIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95863
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI MUSIC" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95864
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: GEMINI NEWS" tvg-logo="" group-title="TELUGU",TELUGU: GEMINI NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95865
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: HISTORY 18 TELUGU HD" tvg-logo="" group-title="TELUGU",TELUGU: HISTORY 18 TELUGU HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95866
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: KUSHI TV" tvg-logo="" group-title="TELUGU",TELUGU: KUSHI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95867
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TELUGU",TELUGU: NATIONAL GEOGRAPHIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95868
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: RAJ MUSIC TELUGU" tvg-logo="" group-title="TELUGU",TELUGU: RAJ MUSIC TELUGU
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95869
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: RAJ NEWS TELUGU" tvg-logo="" group-title="TELUGU",TELUGU: RAJ NEWS TELUGU
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95870
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: SONY BBC EARTH HD" tvg-logo="" group-title="TELUGU",TELUGU: SONY BBC EARTH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95871
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: SONY YAY" tvg-logo="" group-title="TELUGU",TELUGU: SONY YAY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95872
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: STAR MAA GOLD HD" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA GOLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95873
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: STAR MAA HD" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95874
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA MOVIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95875
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: TATA SKY TELUGU CINEMA HD" tvg-logo="" group-title="TELUGU",TELUGU: TATA SKY TELUGU CINEMA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95876
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: TV5 NEWS" tvg-logo="" group-title="TELUGU",TELUGU: TV5 NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95877
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: TV9 NEWS" tvg-logo="" group-title="TELUGU",TELUGU: TV9 NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95878
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: V6 NEWS" tvg-logo="" group-title="TELUGU",TELUGU: V6 NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95879
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: VANITHA TV" tvg-logo="" group-title="TELUGU",TELUGU: VANITHA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95880
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: VISSA TV" tvg-logo="" group-title="TELUGU",TELUGU: VISSA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95881
-#EXTINF:-1 tvg-ID="413" tvg-name="TELUGU: ZEE CINEMALU HD" tvg-logo="" group-title="TELUGU",TELUGU: ZEE CINEMALU HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95882
-#EXTINF:-1 tvg-ID="" tvg-name="TELUGU: ZEE TELUGU HD" tvg-logo="" group-title="TELUGU",TELUGU: ZEE TELUGU HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/95883
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== SPORTS =====" tvg-logo="" group-title="SPORTS",===== SPORTS - 15 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93720
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="" group-title="SPORTS",SPORTS: D SPORTS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93721
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS" tvg-logo="" group-title="SPORTS",SPORTS: DD SPORTS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93722
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: SONY SIX HD" tvg-logo="" group-title="SPORTS",SPORTS: SONY SIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93723
-#EXTINF:-1 tvg-ID="159" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD ENGLISH
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93724
-#EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93725
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 2 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93726
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 3
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93727
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS FIRST
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93728
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS SELECT 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93729
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS SELECT 2 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93730
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS TAMIL" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS TAMIL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93731
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93732
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 2 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93733
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 3 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93734
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="" group-title="SPORTS",SPORTS: WILLOW CRICKET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93735
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== ENGLISH =====" tvg-logo="" group-title="ENGLISH",===== ENGLISH - 43 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93642
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AND FLIX HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AND FLIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93643
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AND PRIVE HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AND PRIVE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93644
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AXN HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AXN HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93645
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: BLOOMBERG INDIA" tvg-logo="" group-title="ENGLISH",ENGLISH: BLOOMBERG INDIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93646
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CARTOON NETWORK" tvg-logo="" group-title="ENGLISH",ENGLISH: CARTOON NETWORK
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93647
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CNBC TV18 NEWS HD" tvg-logo="" group-title="ENGLISH",ENGLISH: CNBC TV18 NEWS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93648
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: COLORS INFINITY HD" tvg-logo="" group-title="ENGLISH",ENGLISH: COLORS INFINITY HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93649
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: COMEDY CENTRAL HD" tvg-logo="" group-title="ENGLISH",ENGLISH: COMEDY CENTRAL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93650
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY INTERNATIONAL HD" tvg-logo="" group-title="ENGLISH",ENGLISH: DISNEY INTERNATIONAL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93651
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY XD" tvg-logo="" group-title="ENGLISH",ENGLISH: DISNEY XD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93652
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ET NOW HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ET NOW HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93653
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: FOX LIFE HD" tvg-logo="" group-title="ENGLISH",ENGLISH: FOX LIFE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93654
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: HBO INDIA HD" tvg-logo="" group-title="ENGLISH",ENGLISH: HBO INDIA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93655
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: HISTORY TV 18 HD" tvg-logo="" group-title="ENGLISH",ENGLISH: HISTORY TV 18 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93656
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: MN PLUS HD" tvg-logo="" group-title="ENGLISH",ENGLISH: MN PLUS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93657
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: MNX HD" tvg-logo="" group-title="ENGLISH",ENGLISH: MNX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93658
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: MOVIES NOW HD" tvg-logo="" group-title="ENGLISH",ENGLISH: MOVIES NOW HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93659
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ANIMAL PLANET WORLD HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ANIMAL PLANET WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93660
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY WORLD HD" tvg-logo="" group-title="ENGLISH",ENGLISH: DISCOVERY WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93661
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO WILD HD" tvg-logo="" group-title="ENGLISH",ENGLISH: NAT GEO WILD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93662
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ENGLISH",ENGLISH: NATIONAL GEOGRAPHIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93663
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO ENGLISH HD" tvg-logo="" group-title="ENGLISH",ENGLISH: NAT GEO ENGLISH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93664
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NEWS X" tvg-logo="" group-title="ENGLISH",ENGLISH: NEWS X
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93665
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ROMEDY NOW HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ROMEDY NOW HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93666
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: SONY BBC EARTH ENGLISH HD" tvg-logo="" group-title="ENGLISH",ENGLISH: SONY BBC EARTH ENGLISH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93667
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: STAR MOVIES HD" tvg-logo="" group-title="ENGLISH",ENGLISH: STAR MOVIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93668
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: STAR MOVIES SELECT HD" tvg-logo="" group-title="ENGLISH",ENGLISH: STAR MOVIES SELECT HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93669
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: STAR WORLD HD" tvg-logo="" group-title="ENGLISH",ENGLISH: STAR WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93670
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: STAR WORLD PREMIER HD" tvg-logo="" group-title="ENGLISH",ENGLISH: STAR WORLD PREMIER HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93671
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: THE Q YOU HD" tvg-logo="" group-title="ENGLISH",ENGLISH: THE Q YOU HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93672
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: TIMES NOW NEWS HD" tvg-logo="" group-title="ENGLISH",ENGLISH: TIMES NOW NEWS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93673
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: TLC WORLD HD" tvg-logo="" group-title="ENGLISH",ENGLISH: TLC WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93674
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: TRAVEL XP HD" tvg-logo="" group-title="ENGLISH",ENGLISH: TRAVEL XP HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93675
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: VH1 HD" tvg-logo="" group-title="ENGLISH",ENGLISH: VH1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93676
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: WARNER BROS" tvg-logo="" group-title="ENGLISH",ENGLISH: WARNER BROS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93677
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ZEE CAFE HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ZEE CAFE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93678
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY SCIENCE" tvg-logo="" group-title="ENGLISH",ENGLISH: DISCOVERY SCIENCE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93679
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY KIDS" tvg-logo="" group-title="ENGLISH",ENGLISH: DISCOVERY KIDS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93680
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY TURBO" tvg-logo="" group-title="ENGLISH",ENGLISH: DISCOVERY TURBO
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93681
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CNN NEWS" tvg-logo="" group-title="ENGLISH",ENGLISH: CNN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93682
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ALJAZEERA HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ALJAZEERA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93683
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ANIMAL PLANET HD" tvg-logo="" group-title="ENGLISH",ENGLISH: ANIMAL PLANET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93684
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: WION NEWS" tvg-logo="" group-title="ENGLISH",ENGLISH: WION NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93685
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== MALAYALAM =====" tvg-logo="" group-title="MALAYALAM",===== MALAYALAM - 28 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93571
-#EXTINF:-1 tvg-ID="725" tvg-name="MAL: KAIRALI NEWS" tvg-logo="" group-title="MALAYALAM",MAL: KAIRALI NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93572
-#EXTINF:-1 tvg-ID="563" tvg-name="MAL: KAUMUDY" tvg-logo="" group-title="MALAYALAM",MAL: KAUMUDY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93573
-#EXTINF:-1 tvg-ID="606" tvg-name="MAL: SHOLAM TV" tvg-logo="" group-title="MALAYALAM",MAL: SHOLAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93574
-#EXTINF:-1 tvg-ID="723" tvg-name="MAL: AMRITHA TV" tvg-logo="" group-title="MALAYALAM",MAL: AMRITHA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93575
-#EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93576
-#EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIE" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET MOVIE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93577
-#EXTINF:-1 tvg-ID="ts532" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET NEWS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93578
-#EXTINF:-1 tvg-ID="181" tvg-name="MAL: ASIANET PLUS" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93579
-#EXTINF:-1 tvg-ID="699" tvg-name="MAL: DD MALAYALAM" tvg-logo="" group-title="MALAYALAM",MAL: DD MALAYALAM
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93580
-#EXTINF:-1 tvg-ID="634" tvg-name="MAL: FLOWERS TV" tvg-logo="" group-title="MALAYALAM",MAL: FLOWERS TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93581
-#EXTINF:-1 tvg-ID="465" tvg-name="MAL: JAIHIND TV" tvg-logo="" group-title="MALAYALAM",MAL: JAIHIND TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93582
-#EXTINF:-1 tvg-ID="810" tvg-name="MAL: JANAM TV" tvg-logo="" group-title="MALAYALAM",MAL: JANAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93583
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI ARABIA" tvg-logo="" group-title="MALAYALAM",MAL: KAIRALI ARABIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93584
-#EXTINF:-1 tvg-ID="710" tvg-name="MAL: KAIRALI PEOPLE TV" tvg-logo="" group-title="MALAYALAM",MAL: KAIRALI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93585
-#EXTINF:-1 tvg-ID="786" tvg-name="MAL: KAPPA TV" tvg-logo="" group-title="MALAYALAM",MAL: KAPPA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93586
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KOCHU TV" tvg-logo="" group-title="MALAYALAM",MAL: KOCHU TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93587
-#EXTINF:-1 tvg-ID="662" tvg-name="MAL: MANORAMA NEWS" tvg-logo="" group-title="MALAYALAM",MAL: MANORAMA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93588
-#EXTINF:-1 tvg-ID="780" tvg-name="MAL: MATHRUBHUMI NEWS" tvg-logo="" group-title="MALAYALAM",MAL: MATHRUBHUMI NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93589
-#EXTINF:-1 tvg-ID="844" tvg-name="MAL: MAZAVIL MANORAMA HD" tvg-logo="" group-title="MALAYALAM",MAL: MAZAVIL MANORAMA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93590
-#EXTINF:-1 tvg-ID="965" tvg-name="MAL: NEWS 18 KERALA" tvg-logo="" group-title="MALAYALAM",MAL: NEWS 18 KERALA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93591
-#EXTINF:-1 tvg-ID="739" tvg-name="MAL: RAJ MUSIC" tvg-logo="" group-title="MALAYALAM",MAL: RAJ MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93592
-#EXTINF:-1 tvg-ID="650" tvg-name="MAL: RAJ NEWS MALAYALAM" tvg-logo="" group-title="MALAYALAM",MAL: RAJ NEWS MALAYALAM
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93593
-#EXTINF:-1 tvg-ID="ts436" tvg-name="MAL: SAFARI TV" tvg-logo="" group-title="MALAYALAM",MAL: SAFARI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93594
-#EXTINF:-1 tvg-ID="ts229" tvg-name="MAL: SURYA MOVIES" tvg-logo="" group-title="MALAYALAM",MAL: SURYA MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93595
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA MUSIC" tvg-logo="" group-title="MALAYALAM",MAL: SURYA MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93596
-#EXTINF:-1 tvg-ID="ts230" tvg-name="MAL: SURYA TV HD" tvg-logo="" group-title="MALAYALAM",MAL: SURYA TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93597
-#EXTINF:-1 tvg-ID="731" tvg-name="MAL: WE TV" tvg-logo="" group-title="MALAYALAM",MAL: WE TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93598
-#EXTINF:-1 tvg-ID="ts684" tvg-name="MAL: ZEE KERALAM HD" tvg-logo="" group-title="MALAYALAM",MAL: ZEE KERALAM HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93599
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== TAMIL =====" tvg-logo="" group-title="TAMIL",===== TAMIL - 72 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100099
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ADHTIYA TV" tvg-logo="" group-title="TAMIL", TAMIL: ADHTIYA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100100
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: AKARAM MIX" tvg-logo="" group-title="TAMIL", TAMIL: AKARAM MIX
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100101
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: AKARAM TV" tvg-logo="" group-title="TAMIL", TAMIL: AKARAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100102
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ANGEL TV HD" tvg-logo="" group-title="TAMIL", TAMIL: ANGEL TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100103
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ATHAVAN TV" tvg-logo="" group-title="TAMIL", TAMIL: ATHAVAN TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100104
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CAPTAIN NEWS" tvg-logo="" group-title="TAMIL", TAMIL: CAPTAIN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100105
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CAPTAIN TV" tvg-logo="" group-title="TAMIL", TAMIL: CAPTAIN TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100106
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CAUVERY NEWS" tvg-logo="" group-title="TAMIL", TAMIL: CAUVERY NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100107
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: CHUTTI TV" tvg-logo="" group-title="TAMIL", TAMIL: CHUTTI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100108
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: COLORS TAMIL HD" tvg-logo="" group-title="TAMIL", TAMIL: COLORS TAMIL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100109
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DD PODHIGAI" tvg-logo="" group-title="TAMIL", TAMIL: DD PODHIGAI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100110
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DD SAPTAGIRI" tvg-logo="" group-title="TAMIL", TAMIL: DD SAPTAGIRI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100111
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY KIDS TAMIL" tvg-logo="" group-title="TAMIL", TAMIL: DISCOVERY KIDS TAMIL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100112
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: DISCOVERY WORLD HD" tvg-logo="" group-title="TAMIL", TAMIL: DISCOVERY WORLD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100113
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FLOWERS TV" tvg-logo="" group-title="TAMIL", TAMIL: FLOWERS TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100114
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: FOX LIFE HD" tvg-logo="" group-title="TAMIL", TAMIL: FOX LIFE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100115
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: HISTORY TV18 HD" tvg-logo="" group-title="TAMIL", TAMIL: HISTORY TV18 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100116
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC BAKTHI" tvg-logo="" group-title="TAMIL", TAMIL: IBC BAKTHI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100117
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC COMEDY" tvg-logo="" group-title="TAMIL", TAMIL: IBC COMEDY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100118
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IBC TAMIL" tvg-logo="" group-title="TAMIL", TAMIL: IBC TAMIL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100119
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: IMAYAM TV" tvg-logo="" group-title="TAMIL", TAMIL: IMAYAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100120
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: J MOVIES" tvg-logo="" group-title="TAMIL", TAMIL: J MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100121
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA MAX" tvg-logo="" group-title="TAMIL", TAMIL: JAYA MAX
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100122
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA PLUS" tvg-logo="" group-title="TAMIL", TAMIL: JAYA PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100123
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: JAYA TV HD" tvg-logo="" group-title="TAMIL", TAMIL: JAYA TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100124
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: KTV HD" tvg-logo="" group-title="TAMIL", TAMIL: KTV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100125
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: LOTUS NEWS" tvg-logo="" group-title="TAMIL", TAMIL: LOTUS NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100126
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MADHA TV" tvg-logo="" group-title="TAMIL", TAMIL: MADHA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100127
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MADHIMUGHAM TV" tvg-logo="" group-title="TAMIL", TAMIL: MADHIMUGHAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100128
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MAKKAL TV" tvg-logo="" group-title="TAMIL", TAMIL: MAKKAL TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100129
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MEENAKSHI TV" tvg-logo="" group-title="TAMIL", TAMIL: MEENAKSHI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100130
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MK TUNES" tvg-logo="" group-title="TAMIL", TAMIL: MK TUNES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100131
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MK TV" tvg-logo="" group-title="TAMIL", TAMIL: MK TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100132
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: MOON TV" tvg-logo="" group-title="TAMIL", TAMIL: MOON TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100133
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NAMBIKKAI TV" tvg-logo="" group-title="TAMIL", TAMIL: NAMBIKKAI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100134
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NAT GEO WILD HD" tvg-logo="" group-title="TAMIL", TAMIL: NAT GEO WILD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100135
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TAMIL", TAMIL: NATIONAL GEOGRAPHIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100136
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NEWS 18 TAMIL NADU" tvg-logo="" group-title="TAMIL", TAMIL: NEWS 18 TAMIL NADU
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100137
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: NEWS 7" tvg-logo="" group-title="TAMIL", TAMIL: NEWS 7
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100138
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: POLIMER NEWS" tvg-logo="" group-title="TAMIL", TAMIL: POLIMER NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100139
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: POLIMER TV" tvg-logo="" group-title="TAMIL", TAMIL: POLIMER TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100140
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: PUTHIYA THALIMURAI" tvg-logo="" group-title="TAMIL", TAMIL: PUTHIYA THALIMURAI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100141
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: PUTHUYUGAM" tvg-logo="" group-title="TAMIL", TAMIL: PUTHUYUGAM
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100142
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAGAM TV" tvg-logo="" group-title="TAMIL", TAMIL: RAGAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100143
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ DIGITAL PLUS" tvg-logo="" group-title="TAMIL", TAMIL: RAJ DIGITAL PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100144
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ MUSIX" tvg-logo="" group-title="TAMIL", TAMIL: RAJ MUSIX
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100145
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ NEWS" tvg-logo="" group-title="TAMIL", TAMIL: RAJ NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100146
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: RAJ TV" tvg-logo="" group-title="TAMIL", TAMIL: RAJ TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100147
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SAHANA TV" tvg-logo="" group-title="TAMIL", TAMIL: SAHANA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100148
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SALVATION TV" tvg-logo="" group-title="TAMIL", TAMIL: SALVATION TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100149
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SATHIYAM TV" tvg-logo="" group-title="TAMIL", TAMIL: SATHIYAM TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100150
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY BBC EARTH HD" tvg-logo="" group-title="TAMIL", TAMIL: SONY BBC EARTH HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100151
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SONY YAY" tvg-logo="" group-title="TAMIL", TAMIL: SONY YAY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100152
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: STAR VIJAY HD" tvg-logo="" group-title="TAMIL", TAMIL: STAR VIJAY HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100153
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN LIFE" tvg-logo="" group-title="TAMIL", TAMIL: SUN LIFE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100154
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN MUSIC HD" tvg-logo="" group-title="TAMIL", TAMIL: SUN MUSIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100155
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN NEWS" tvg-logo="" group-title="TAMIL", TAMIL: SUN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100156
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: SUN TV HD" tvg-logo="" group-title="TAMIL", TAMIL: SUN TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100157
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TAMILAN TV" tvg-logo="" group-title="TAMIL", TAMIL: TAMILAN TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100158
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TATA SKY TAMIL CINEMA" tvg-logo="" group-title="TAMIL", TAMIL: TATA SKY TAMIL CINEMA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100159
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: THANTHI TV" tvg-logo="" group-title="TAMIL", TAMIL: THANTHI TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100160
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TUNE 6" tvg-logo="" group-title="TAMIL", TAMIL: TUNE 6
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100161
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: TVI HD" tvg-logo="" group-title="TAMIL", TAMIL: TVI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100162
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VALICHAM PLUS" tvg-logo="" group-title="TAMIL", TAMIL: VALICHAM PLUS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100163
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VANDHAR TV" tvg-logo="" group-title="TAMIL", TAMIL: VANDHAR TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100164
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VASANTH TV" tvg-logo="" group-title="TAMIL", TAMIL: VASANTH TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100165
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VASANTHAM TV SINGAPOUR" tvg-logo="" group-title="TAMIL", TAMIL: VASANTHAM TV SINGAPOUR
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100166
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: VIJAY SUPER HD" tvg-logo="" group-title="TAMIL", TAMIL: VIJAY SUPER HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100167
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: WIN NEWS" tvg-logo="" group-title="TAMIL", TAMIL: WIN NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100168
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL HD" tvg-logo="" group-title="TAMIL", TAMIL: ZEE TAMIL HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100169
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE TAMIL SD" tvg-logo="" group-title="TAMIL", TAMIL: ZEE TAMIL SD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100170
-#EXTINF:-1 tvg-ID="" tvg-name=" TAMIL: ZEE THIRAI" tvg-logo="" group-title="TAMIL", TAMIL: ZEE THIRAI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/100171
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="===== PUNJABI =====" tvg-logo="" group-title="PUNJABI",===== PUNJABI - 33 CHANNELS =====
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93686
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: AIKAM TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: AIKAM TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93687
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: BRIT ASIA" tvg-logo="" group-title="PUNJABI",PUNJABI: BRIT ASIA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93688
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: CHARDIKALAH TIMES TV" tvg-logo="" group-title="PUNJABI",PUNJABI: CHARDIKALAH TIMES TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93689
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: CHARDIKLA TIMES TV" tvg-logo="" group-title="PUNJABI",PUNJABI: CHARDIKLA TIMES TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93690
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: DD PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: DD PUNJABI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93691
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: DESI CHANNEL" tvg-logo="" group-title="PUNJABI",PUNJABI: DESI CHANNEL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93692
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: FATEH TV" tvg-logo="" group-title="PUNJABI",PUNJABI: FATEH TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93693
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: GLOBAL PUNJABI HD" tvg-logo="" group-title="PUNJABI",PUNJABI: GLOBAL PUNJABI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93694
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: HUNGAMA AMRITVANI HD" tvg-logo="" group-title="PUNJABI",PUNJABI: HUNGAMA AMRITVANI HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93695
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: INDIA NEWS PUNJAB" tvg-logo="" group-title="PUNJABI",PUNJABI: INDIA NEWS PUNJAB
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93696
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JASHAN TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: JASHAN TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93697
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JUS 24x7" tvg-logo="" group-title="PUNJABI",PUNJABI: JUS 24x7
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93698
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JUS ONE" tvg-logo="" group-title="PUNJABI",PUNJABI: JUS ONE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93699
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: LIVING INDIA NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: LIVING INDIA NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93700
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MAHA" tvg-logo="" group-title="PUNJABI",PUNJABI: MAHA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93701
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MANORANJAN MOVIES" tvg-logo="" group-title="PUNJABI",PUNJABI: MANORANJAN MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93702
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MANORANJAN TV" tvg-logo="" group-title="PUNJABI",PUNJABI: MANORANJAN TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93703
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 MUSIC" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 MUSIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93704
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93705
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 SHRADDHA" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 SHRADDHA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93706
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: NEWS 18 PUNJAB HARYANA" tvg-logo="" group-title="PUNJABI",PUNJABI: NEWS 18 PUNJAB HARYANA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93707
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PCHS TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: PCHS TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93708
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PITAARA TV" tvg-logo="" group-title="PUNJABI",PUNJABI: PITAARA TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93709
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PRIME ASIA HD" tvg-logo="" group-title="PUNJABI",PUNJABI: PRIME ASIA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93710
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC CHAKDE" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC CHAKDE
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93711
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC NEWS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93712
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC PUNJABI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93713
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: SANJHA TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: SANJHA TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93714
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: SSTV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: SSTV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93715
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: TADKA" tvg-logo="" group-title="PUNJABI",PUNJABI: TADKA
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93716
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: TATA SKY PUNJAB DE RANG" tvg-logo="" group-title="PUNJABI",PUNJABI: TATA SKY PUNJAB DE RANG
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93717
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJAB HARYANA HD" tvg-logo="" group-title="PUNJABI",PUNJABI: ZEE PUNJAB HARYANA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93718
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: ZEE PUNJABI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/vsaytUCz8x/93719
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/zaqAlAdjZGBuFMsHsLUYjDlgm9r_small.jpg" group-title="Arrow - English",Arrow S01 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/vd1muBD34LjjKoHUx0J0Dnx1NGt_small.jpg" group-title="Arrow - English",Arrow S01 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/4jO4E9vk7yEMDNyRYQITpN5Wgs4_small.jpg" group-title="Arrow - English",Arrow S01 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/gf5M5oC7jAuzisQh7uy9XJMzsdO_small.jpg" group-title="Arrow - English",Arrow S01 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/dy6AyCilp9fbFkaB3iV0jU8o4sd_small.jpg" group-title="Arrow - English",Arrow S01 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/dWIHQtl23rZRkxbjSGetvyxYcnl_small.jpg" group-title="Arrow - English",Arrow S01 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/lAlDrloYtONo85iSgd8Sf218EEn_small.jpg" group-title="Arrow - English",Arrow S01 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/pTIyBHzDFVo8rCWpHYVVMnz1L5Z_small.jpg" group-title="Arrow - English",Arrow S01 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/Jzh2g9fGcyKyqFHNS80QRk1oxY_small.jpg" group-title="Arrow - English",Arrow S01 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/xlNJXMRhuMgWdsfgAgfmBSG8CtW_small.jpg" group-title="Arrow - English",Arrow S01 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/6WsgWOZ91lV8oJodxwM3vl5KSxw_small.jpg" group-title="Arrow - English",Arrow S01 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/kDjvaQZAX8H58L6iJxhItHrvwhm_small.jpg" group-title="Arrow - English",Arrow S01 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E13" tvg-logo="http://mu01.iflyhd.com:8880/images/5mYDymrAXFyhYiRU3D0PhOEn6Ac_small.jpg" group-title="Arrow - English",Arrow S01 E13
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E14" tvg-logo="http://mu01.iflyhd.com:8880/images/5mposS5Uyvy5LQ2467e2U4NN2FE_small.jpg" group-title="Arrow - English",Arrow S01 E14
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E15" tvg-logo="http://mu01.iflyhd.com:8880/images/yhBTfvBNkcqhE5CPPGxB8AvsqIu_small.jpg" group-title="Arrow - English",Arrow S01 E15
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E16" tvg-logo="http://mu01.iflyhd.com:8880/images/znYt4vqGxjbtQ81x9X6nV5XQCGf_small.jpg" group-title="Arrow - English",Arrow S01 E16
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E17" tvg-logo="http://mu01.iflyhd.com:8880/images/leafoGxSN05EQQ1KKqIrkeLZtWX_small.jpg" group-title="Arrow - English",Arrow S01 E17
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E18" tvg-logo="http://mu01.iflyhd.com:8880/images/tdiTEl6XXCwa0qmqVMw8iUWW5iQ_small.jpg" group-title="Arrow - English",Arrow S01 E18
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E19" tvg-logo="http://mu01.iflyhd.com:8880/images/oRVDDpaqA0FirNEoe7Wx3Keblwd_small.jpg" group-title="Arrow - English",Arrow S01 E19
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E20" tvg-logo="http://mu01.iflyhd.com:8880/images/1yeRL8ntftdM2Ly8v8B0qx9GP5S_small.jpg" group-title="Arrow - English",Arrow S01 E20
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E21" tvg-logo="http://mu01.iflyhd.com:8880/images/2TgdiYuTXfp0b9lkIK0XWNvkL_small.jpg" group-title="Arrow - English",Arrow S01 E21
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E22" tvg-logo="http://mu01.iflyhd.com:8880/images/dunutI6fVDy0ZUGRfxf35sgknEy_small.jpg" group-title="Arrow - English",Arrow S01 E22
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E23" tvg-logo="http://mu01.iflyhd.com:8880/images/bgXrB2ewp9HpjYMQPWHW7qp5rfh_small.jpg" group-title="Arrow - English",Arrow S01 E23
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/zqnAl9XvKYgiGpdyxDntJR9Lzn2_small.jpg" group-title="Arrow - English",Arrow S02 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/pHgCSAYAUuUmHtZjyvVsbK3E1hc_small.jpg" group-title="Arrow - English",Arrow S02 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/7hbE9j8YOyH9cyX46wripewOl99_small.jpg" group-title="Arrow - English",Arrow S02 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/yODDDqN7I0pGpwhILnFaM5rUQQi_small.jpg" group-title="Arrow - English",Arrow S02 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/qkwlm99g3YPQE8o0BIDBn4ADVdE_small.jpg" group-title="Arrow - English",Arrow S02 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/fl2FLNQRJyh2hnSOmcjUl8TWKzF_small.jpg" group-title="Arrow - English",Arrow S02 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/vAVVUh5o4j71ymC0Ldhdg9VvJL1_small.jpg" group-title="Arrow - English",Arrow S02 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/rAsQCY3xjURS0WAJqB2CwW7nFm2_small.jpg" group-title="Arrow - English",Arrow S02 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/ndpVHvr8lHrQWuCOD0IGQrxPDPz_small.jpg" group-title="Arrow - English",Arrow S02 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/w9kMhvgVTywpBZRwUnaFIrzoNEA_small.jpg" group-title="Arrow - English",Arrow S02 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/f613CkjBZqPlxyGKSUmF5CUol52_small.jpg" group-title="Arrow - English",Arrow S02 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/cqyOuQNxAFIZJiWBORjl57byBmM_small.jpg" group-title="Arrow - English",Arrow S02 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E13" tvg-logo="http://mu01.iflyhd.com:8880/images/dSIUjX7vP2aEtaIo29Vu2CcOTvw_small.jpg" group-title="Arrow - English",Arrow S02 E13
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E14" tvg-logo="http://mu01.iflyhd.com:8880/images/tZ5a078bJYwcb8Ozv5ROCMnfo9u_small.jpg" group-title="Arrow - English",Arrow S02 E14
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E15" tvg-logo="http://mu01.iflyhd.com:8880/images/bWj5ov3OQaFX8B0W4b4d2kagQFw_small.jpg" group-title="Arrow - English",Arrow S02 E15
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E16" tvg-logo="http://mu01.iflyhd.com:8880/images/rSQvxVSfyAjueAq84ubK9uoqv4x_small.jpg" group-title="Arrow - English",Arrow S02 E16
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E17" tvg-logo="http://mu01.iflyhd.com:8880/images/nkJyruBCDLqkybRHMTwdgeGTcnO_small.jpg" group-title="Arrow - English",Arrow S02 E17
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E18" tvg-logo="http://mu01.iflyhd.com:8880/images/u0Lxt4U3FNZzUqueg2hNCLgGlao_small.jpg" group-title="Arrow - English",Arrow S02 E18
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E19" tvg-logo="http://mu01.iflyhd.com:8880/images/m6e5LvHSt4x0z8eBCP2hYjxNKZO_small.jpg" group-title="Arrow - English",Arrow S02 E19
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E20" tvg-logo="http://mu01.iflyhd.com:8880/images/4dAzkeGQPzhyC14GBpwiD88NMxj_small.jpg" group-title="Arrow - English",Arrow S02 E20
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E21" tvg-logo="http://mu01.iflyhd.com:8880/images/uEb3ArQNLw1UJzl37E5It0YGx3L_small.jpg" group-title="Arrow - English",Arrow S02 E21
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E22" tvg-logo="http://mu01.iflyhd.com:8880/images/9EPnggDl6FuJp8pVqmT1L0FbQrv_small.jpg" group-title="Arrow - English",Arrow S02 E22
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E23" tvg-logo="http://mu01.iflyhd.com:8880/images/cl9y3yhGdI7frENgdXd8XwlkRRR_small.jpg" group-title="Arrow - English",Arrow S02 E23
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/tW2CBUHvk4eoeyEreCtiv0JYFzr_small.jpg" group-title="Arrow - English",Arrow S03 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/3yGHZjNT4FYVPb9njp52tvalwPN_small.jpg" group-title="Arrow - English",Arrow S03 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/1eYJZMcJF3kcmLMIJaW1xPdgyny_small.jpg" group-title="Arrow - English",Arrow S03 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/wxmNdbnuheA5EEZp9hXQkrytvKR_small.jpg" group-title="Arrow - English",Arrow S03 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/v8Kch3cTTB5rUqD4Ylk6A1Q1Y3z_small.jpg" group-title="Arrow - English",Arrow S03 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/begBK9i4d6BeEYrtwzwSQpz62tA_small.jpg" group-title="Arrow - English",Arrow S03 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/A0WsIK1IP5UZ1scmEex1TYR3Kd7_small.jpg" group-title="Arrow - English",Arrow S03 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/ifCzFjlLbudBeKPmmsxSYpJjLN3_small.jpg" group-title="Arrow - English",Arrow S03 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/tyfBapY2y4iYoTfN2LOGmdghJHJ_small.jpg" group-title="Arrow - English",Arrow S03 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/bcVKy6EUtlSHfRbAOKKrm2hlq5k_small.jpg" group-title="Arrow - English",Arrow S03 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/upiZEqxFDJ2OocFdd4kM5IX8HSw_small.jpg" group-title="Arrow - English",Arrow S03 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/6G6Eoqvax7DmfB91uBxWHtzBudv_small.jpg" group-title="Arrow - English",Arrow S03 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E13" tvg-logo="http://mu01.iflyhd.com:8880/images/9UTlSRrBFYj1dsmfYFNnIM5JuMe_small.jpg" group-title="Arrow - English",Arrow S03 E13
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E14" tvg-logo="http://mu01.iflyhd.com:8880/images/nXVtGRUPjPLQ54F83rMUZUPwXNp_small.jpg" group-title="Arrow - English",Arrow S03 E14
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E15" tvg-logo="http://mu01.iflyhd.com:8880/images/zp9zBmwj7i27nIiZauQNCZXFRQ4_small.jpg" group-title="Arrow - English",Arrow S03 E15
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E16" tvg-logo="http://mu01.iflyhd.com:8880/images/hn7dbXEpewFx1VxyDUhw3jmLzlB_small.jpg" group-title="Arrow - English",Arrow S03 E16
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E17" tvg-logo="http://mu01.iflyhd.com:8880/images/yyaQDWp8iR480tYtmMsIJcy8P7P_small.jpg" group-title="Arrow - English",Arrow S03 E17
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E18" tvg-logo="http://mu01.iflyhd.com:8880/images/rCwOTiYwW4HjXemGYRkkgAgV4Ha_small.jpg" group-title="Arrow - English",Arrow S03 E18
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E19" tvg-logo="http://mu01.iflyhd.com:8880/images/2EzcgK3cD4MYDvUwrK3qoNAAWrf_small.jpg" group-title="Arrow - English",Arrow S03 E19
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E20" tvg-logo="http://mu01.iflyhd.com:8880/images/qOuyrGP6STpHIDjHmmu3PmlIMGW_small.jpg" group-title="Arrow - English",Arrow S03 E20
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E21" tvg-logo="http://mu01.iflyhd.com:8880/images/nmgtnD2Pja8PEWyaeSqFTBrSXAo_small.jpg" group-title="Arrow - English",Arrow S03 E21
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E22" tvg-logo="http://mu01.iflyhd.com:8880/images/t6sW0eGhkFPb6Wrlk2CCsZdXIX3_small.jpg" group-title="Arrow - English",Arrow S03 E22
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S03 E23" tvg-logo="http://mu01.iflyhd.com:8880/images/jF0JBm2uGcpfqbddfDZvEAWB5Jp_small.jpg" group-title="Arrow - English",Arrow S03 E23
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/dQ1KYxilK1d8UHEtPTw5HHQpp0b_small.jpg" group-title="Arrow - English",Arrow S04 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/5pLakj9FKbkEQmn0NMf5gWCJiPl_small.jpg" group-title="Arrow - English",Arrow S04 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/9BbK81ICqB10CBurGbXndqEqsiJ_small.jpg" group-title="Arrow - English",Arrow S04 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/uigX7F4cF5pa33fDsAej29ktj75_small.jpg" group-title="Arrow - English",Arrow S04 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/xNRqYDxWJSz0Va4FYRr1lYQst28_small.jpg" group-title="Arrow - English",Arrow S04 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/wPrPNS9P4AiBWJxvR24oy5UAMdm_small.jpg" group-title="Arrow - English",Arrow S04 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/4aMzKcrtcltrTaaO4Vp4JW0jPzw_small.jpg" group-title="Arrow - English",Arrow S04 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/5RHHKyAPV4rnvKBo9Zy1zy0zFV0_small.jpg" group-title="Arrow - English",Arrow S04 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/z7jouWlGw3eh5VXBMuhBf0zOjWx_small.jpg" group-title="Arrow - English",Arrow S04 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/tMY2gjjvsh89VPjFOV5w0ls7th8_small.jpg" group-title="Arrow - English",Arrow S04 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/3dAG1uv7jMKt5rMljuYZOW1o6aj_small.jpg" group-title="Arrow - English",Arrow S04 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/cDyczgVVa7fSv8GjV53MOgoEQeE_small.jpg" group-title="Arrow - English",Arrow S04 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E13" tvg-logo="http://mu01.iflyhd.com:8880/images/97jlcAHUkMIAKK8qx2ull8pVrop_small.jpg" group-title="Arrow - English",Arrow S04 E13
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E14" tvg-logo="http://mu01.iflyhd.com:8880/images/kCgNKhi5XW4uGCaidr4iz77mtEp_small.jpg" group-title="Arrow - English",Arrow S04 E14
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E15" tvg-logo="http://mu01.iflyhd.com:8880/images/wxq7BlBOrePCdSaqn69bPDwUyDD_small.jpg" group-title="Arrow - English",Arrow S04 E15
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E16" tvg-logo="http://mu01.iflyhd.com:8880/images/f3Ahdnbbzo0CdDG9E8JUrVnb0L_small.jpg" group-title="Arrow - English",Arrow S04 E16
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E17" tvg-logo="http://mu01.iflyhd.com:8880/images/paXDlhdhM3smQmSpS4LqQmJNvmx_small.jpg" group-title="Arrow - English",Arrow S04 E17
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E18" tvg-logo="http://mu01.iflyhd.com:8880/images/puBUYgIajfpDkqRFkLWUklIGXUX_small.jpg" group-title="Arrow - English",Arrow S04 E18
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E19" tvg-logo="http://mu01.iflyhd.com:8880/images/kKQ4SDpu8T7z06sipc55Nnbuwgy_small.jpg" group-title="Arrow - English",Arrow S04 E19
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E20" tvg-logo="http://mu01.iflyhd.com:8880/images/z3Gsjt0yy3kDaTmce5xyBGtI2tr_small.jpg" group-title="Arrow - English",Arrow S04 E20
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E21" tvg-logo="http://mu01.iflyhd.com:8880/images/aeeSPzgA33oNCwyfE6KWogsePYe_small.jpg" group-title="Arrow - English",Arrow S04 E21
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E22" tvg-logo="http://mu01.iflyhd.com:8880/images/iPWtuL6qsi9yux3xvOnbHNylrgo_small.jpg" group-title="Arrow - English",Arrow S04 E22
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S04 E23" tvg-logo="http://mu01.iflyhd.com:8880/images/1DKKqCpzr3WvQm09ugSzVuG4hQ3_small.jpg" group-title="Arrow - English",Arrow S04 E23
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/uJmQsMSHKJiNuTSpYpJRWtRssCK_small.jpg" group-title="Arrow - English",Arrow S05 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/5DEcSaUFIu54CERwqv9S9hc99xo_small.jpg" group-title="Arrow - English",Arrow S05 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/AuhEfrU3I7zCcMb9arnBPsN7h4h_small.jpg" group-title="Arrow - English",Arrow S05 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/9Iq4p2MYVwA8DdEzWNdhtVm9ktX_small.jpg" group-title="Arrow - English",Arrow S05 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/hQqNO7WpQpgr0ovEXb8aDg8i3Ab_small.jpg" group-title="Arrow - English",Arrow S05 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/mrlg1ubymy0SJHHbkegqM330Hre_small.jpg" group-title="Arrow - English",Arrow S05 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/nEd4tysjEooGxPvKn8FwFjgnExy_small.jpg" group-title="Arrow - English",Arrow S05 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/jKLvEq99daTLF6is02b7bFxmS3B_small.jpg" group-title="Arrow - English",Arrow S05 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/d47U5EEg6B9G4WglRHPUNW5CMwz_small.jpg" group-title="Arrow - English",Arrow S05 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/7ZGpRuPXnE3LjmNVEG4NcuBFiiF_small.jpg" group-title="Arrow - English",Arrow S05 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/idFFxZMiWyNvtg5JepRTo18XIsL_small.jpg" group-title="Arrow - English",Arrow S05 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/zRzWCAoQyc4Rm1Y7q2zDeVZFEnx_small.jpg" group-title="Arrow - English",Arrow S05 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E13" tvg-logo="http://mu01.iflyhd.com:8880/images/cmZLynYBEyiVZGca9qFAGwX9B30_small.jpg" group-title="Arrow - English",Arrow S05 E13
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E14" tvg-logo="http://mu01.iflyhd.com:8880/images/eH2dhpm8sOmtGjtgQdd5koVYZx1_small.jpg" group-title="Arrow - English",Arrow S05 E14
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E15" tvg-logo="http://mu01.iflyhd.com:8880/images/mt0mMwSd0cmaN8KwvRY5IEedSCt_small.jpg" group-title="Arrow - English",Arrow S05 E15
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E16" tvg-logo="http://mu01.iflyhd.com:8880/images/mj9661jaFhqrjpTkdXrARlVx6DE_small.jpg" group-title="Arrow - English",Arrow S05 E16
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E17" tvg-logo="http://mu01.iflyhd.com:8880/images/bBxSGVY50HFL6LT4x5d7dfEOpH5_small.jpg" group-title="Arrow - English",Arrow S05 E17
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E18" tvg-logo="http://mu01.iflyhd.com:8880/images/hND92lNzMQ7KtShpoNHhhm2Chq3_small.jpg" group-title="Arrow - English",Arrow S05 E18
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E19" tvg-logo="http://mu01.iflyhd.com:8880/images/wVScU5sGpPtt7dwmYBRM7fNviX9_small.jpg" group-title="Arrow - English",Arrow S05 E19
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E20" tvg-logo="http://mu01.iflyhd.com:8880/images/kw357yVyNSdvQKH10UkxkixyooT_small.jpg" group-title="Arrow - English",Arrow S05 E20
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E21" tvg-logo="http://mu01.iflyhd.com:8880/images/8kWZkQGh7I0YobyhWfeYi7KtYLA_small.jpg" group-title="Arrow - English",Arrow S05 E21
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E22" tvg-logo="http://mu01.iflyhd.com:8880/images/92GeP6S3nasBhwdLeKg3xeRof5O_small.jpg" group-title="Arrow - English",Arrow S05 E22
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E23" tvg-logo="http://mu01.iflyhd.com:8880/images/apGODUKLMgUVz7e1tEUHUkybCTd_small.jpg" group-title="Arrow - English",Arrow S05 E23
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/tku04rIOjFHIwdkjeSGi6DQiOQp_small.jpg" group-title="Arrow - English",Arrow S06 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/eGwGlULe1PLqEtJf2yllWhVVrhv_small.jpg" group-title="Arrow - English",Arrow S06 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/l1hti1YBjCLiFcUC5aqqxUZsU4K_small.jpg" group-title="Arrow - English",Arrow S06 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/gqaSLuXxu6U3xGW48ZkGiRkwDRm_small.jpg" group-title="Arrow - English",Arrow S06 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/iKpNoDp4onqXa0PtiA6jrBhT1Sv_small.jpg" group-title="Arrow - English",Arrow S06 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/6fGdUj9jrxeUJAu6y9wZRb98Nb0_small.jpg" group-title="Arrow - English",Arrow S06 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/adarSKMQhzSmupOpMlEx0P54pu4_small.jpg" group-title="Arrow - English",Arrow S06 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/c4UH5hWH75qK3CIziYyzoARKuq4_small.jpg" group-title="Arrow - English",Arrow S06 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/674MdRWyRSEYkzzKuY7K0m92cAd_small.jpg" group-title="Arrow - English",Arrow S06 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E10" tvg-logo="http://mu01.iflyhd.com:8880/images/4SzRLUqe0sVkxMwVPXtu4q7sYo3_small.jpg" group-title="Arrow - English",Arrow S06 E10
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E11" tvg-logo="http://mu01.iflyhd.com:8880/images/ez3yUFmi2EtjH9ZPugyUnB1WGO4_small.jpg" group-title="Arrow - English",Arrow S06 E11
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E12" tvg-logo="http://mu01.iflyhd.com:8880/images/cd5CjXF1Xd7zCaN7493VvUGn1s4_small.jpg" group-title="Arrow - English",Arrow S06 E12
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/43513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/47AI8DP9hwVF5Hmd0gZyEFpJ4Xf_small.jpg" group-title="Arrow - English",Arrow S07 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/53056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E01" tvg-logo="http://mu01.iflyhd.com:8880/images/5918ae5a031b59d95d5b4196b7184e3e.jpg" group-title="Arrow - English",Arrow S08 E01
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E02" tvg-logo="http://mu01.iflyhd.com:8880/images/43f2eaa2d82edca627eb331a75c5fb20.jpg" group-title="Arrow - English",Arrow S08 E02
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E03" tvg-logo="http://mu01.iflyhd.com:8880/images/09f6a4beac0069549c6722b7afd18d4f.jpg" group-title="Arrow - English",Arrow S08 E03
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65500.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E04" tvg-logo="http://mu01.iflyhd.com:8880/images/3375164feae13a216b967a025c83f6d7.jpg" group-title="Arrow - English",Arrow S08 E04
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65501.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E05" tvg-logo="http://mu01.iflyhd.com:8880/images/19491710b904b54e22767777ebf04cd9.jpg" group-title="Arrow - English",Arrow S08 E05
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65502.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E06" tvg-logo="http://mu01.iflyhd.com:8880/images/8047c088ecb8cb44d7c764eac43a0ff8.jpg" group-title="Arrow - English",Arrow S08 E06
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65503.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E07" tvg-logo="http://mu01.iflyhd.com:8880/images/e10a522f9fb826a4adbb7ec9146586cc.jpg" group-title="Arrow - English",Arrow S08 E07
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E08" tvg-logo="http://mu01.iflyhd.com:8880/images/e2065919176944765939722e87154ef7.jpg" group-title="Arrow - English",Arrow S08 E08
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/03d0ede9c1f186137d44ddfe5168c601.jpg" group-title="Arrow - English",Arrow S08 E09
-http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65506.mkv
-
+🇭🇰香港频道,#genre#
+有線新聞台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
+有線新聞台1080P,http://live-hwcdn.utvlive.top:80/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
+有線財經資訊台1080P,http://125.89.166.215:80/live-hwcdn.utvlive.top:80/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
+ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
+ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
+翡翠台 1080P,http://61.238.6.49:8000/bysid/1
+无线新闻 1080P,http://61.238.6.49:8001/bysid/83
+明珠台HD,http://61.238.6.49:8001/bysid/2
+J2 1080P,http://61.238.6.49:8001/bysid/82
+无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
+有线新闻,http://player.ggiptv.com:13164/v/hkcxw.m3u8
+凤凰香港 Max6M1080,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+凤凰香港 Max6M1080,http://125.89.
